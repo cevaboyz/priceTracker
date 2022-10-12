@@ -1156,5 +1156,7 @@ price_checker_df <- plyr::ldply(scrape_raw, data.frame)
 
 ###########################################################
 
+date <- Sys.time()
+
 write.csv(price_checker_df,
-          file = paste0("polite_price/Amazon_price_", date, ".csv"))
+          file = paste0("price/Amazon_price_", date, ".csv"))
