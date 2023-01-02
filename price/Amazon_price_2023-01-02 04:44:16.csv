@@ -1,0 +1,523 @@
+"","asin","product_name","sku","price_cleaning","native_price","discount_percentage","date","X..i.."
+"1","B006JYFNUI","Imetec Acqua Bottiglia di Ricambio per Imetec Acqua Bubbles BLS 100 - BLS 110","0",NA,"0","0","1672621187.75823",NA
+"2","B00TDNGW3Y","Imetec Acqua The Bottle BT 300 Bottiglia di Ricambio per Imetec Acqua The Bottle FB 110 e FB 100","0","20.1","0","0","1672621209.50211",NA
+"3","B008DREKCQ","Imetec H2O Flux Technology, 3 Cartucce Filtranti per Prodotti Acqua, Ricambi Originali","0","20.1","0","0","1672621232.12924",NA
+"4","B008DREU30","Imetec Acqua WP120 Caraffa Filtrante con 3 Filtri FC100 Inclusi","0",NA,"0","0","1672621254.08232",NA
+"5","B00GAY1TYG","Imetec Acqua The Bottle FB 100 Bottiglia Filtrante","0",NA,"0","0","1672621276.04055",NA
+"6","B00GM9FVRU","Imetec Acqua The Bottle FB 120 Bottiglia Filtrante, Family Pack","0","17.33","0","0","1672621297.81534",NA
+"7","B006JNA2OG","Imetec BLS100 Gasatore d'Acqua con 3 Livelli di Gasatura, Bottiglia con Tappo di Chiusura da 1 Litro, Cilindro per Gasare Fino a 80 Litri Incluso, Nero, Ceramica, 0","0",NA,"0","0","1672621319.59023",NA
+"8","B0069ORHTS","Imetec 7744J BLS110 Gasatore d'Acqua con 3 Livelli di Gasatura, Bottiglia con Tappo di Chiusura da 1 Litro, Cilindro per Gasare Fino a 80 Litri Incluso, Nero, Arancione","0",NA,"0","0","1672621340.96388",NA
+"9","B006JN451C","Imetec 7730 Cilindro Universale per Gasatori Domestici, Co2 Proveniente da Fonti Naturali, Gasa Fino a 80 Litri di Acqua, Blue","0",NA,"0","0","1672621362.96496",NA
+"10","B00XMY1XVQ","IMETEC The Drinking Station WS100 Apparecchio per la Depurazione e la Gasatura Rubinetto, 120 l Depurata e Fino a 80 l di Acqua Gasata, Plastic","0",NA,"0","0","1672621384.94221",NA
+"11","B00MHUG8LG","Imetec Acqua The Bottle FB 100 Bottiglia Filtrante","0",NA,"0","0","1672621407.51357",NA
+"12","B007X31N7Q","Imetec Bellissima Magic Style PB1 45 Spazzola Professionale Riscaldata","0",NA,"0","0","1672621429.64062",NA
+"13","B007YH05SO","Imetec Bellissima Magic Style PB1 30 Spazzola Professionale Riscaldata","0","54","0","0","1672621451.77801",NA
+"14","B00G3NJTWS","Imetec Bellissima Magic Style PB4 30 Spazzola Professionale Riscaldata, Diametro 30 mm, Rivestimento in Ceramica, Regolazione della Temperatura, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0",NA,"0","0","1672621474.10488",NA
+"15","B00G3NJSC4","Imetec Bellissima Magic Style PB4 38 Spazzola Professionale Riscaldata, Diametro 38 mm, Rivestimento in Ceramica, Regolazione della Temperatura, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0","38.99","0","0","1672621496.30933",NA
+"16","B00EFP7L3K","Imetec Bellissima Magic Style PB1 25 Spazzola Professionale Riscaldata, Diametro 25 mm, Rivestimento in Ceramica, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0",NA,"0","0","1672621518.30713",NA
+"17","B00FGRYLHA","Imetec Bellissima Magic Style PB1 30 Spazzola Professionale Riscaldata, Diametro 30 mm, Rivestimento in Ceramica, Regolazione della Temperatura, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0","38.99","0","0","1672621540.15408",NA
+"18","B00M0K1VYM","Imetec Bellissima Magic Style PB1 38 Spazzola Professionale Riscaldata, Diametro 38 mm, Rivestimento in Ceramica, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0",NA,"0","0","1672621561.61925",NA
+"19","B00FXBCNP6","Imetec Bellissima Magic Style PB1 45 Spazzola Professionale Riscaldata, Diametro 45 mm, Rivestimento in Ceramica, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0",NA,"0","0","1672621583.44841",NA
+"20","B00DZK6CJK","Imetec Bellissima Magic Style PB2 25 Spazzola Professionale Riscaldata, Diametro 25 mm, Rivestimento in Gloss Titanium Ceramic, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0",NA,"0","0","1672621606.0546",NA
+"21","B00FHQJ44U","Imetec Bellissima Magic Style PB2 30 Spazzola Professionale Riscaldata, Diametro 30 mm, Rivestimento in Ceramica, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0","31.14","0","0","1672621628.08433",NA
+"22","B00FHQJ0TE","Imetec Bellissima Magic Style PB2 30 Spazzola Professionale Riscaldata, Diametro 30 mm, Rivestimento in Ceramica, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0","31.14","0","0","1672621650.56337",NA
+"23","B00FR5XS8Y","Imetec Bellissima Magic Style PB2 30 Spazzola Professionale Riscaldata, Diametro 30 mm, Rivestimento in Ceramica, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0","31.14","0","0","1672621672.69865",NA
+"24","B002YY6M0C","Bellissima Imetec Bm 200 Piastra Mini Per Capelli Lisci E Luminosi, Temperatura 200°, Multivoltaggio Automatico, Dimensioni Compatte Da Viaggio, ‎7.87 x 1.77 x 0.01 cm; 250 grammi","0","16.9","0","0","1672621695.26283",NA
+"25","B013GDSCRK","Bellissima Imetec Bhs3 100 Revolution, Arricciacapelli Automatico, Rivestimento In Ceramica, ‎35.6 x 5.2 x 11.7 cm; 426 grammi","0","55.99","0","0","1672621717.86753",NA
+"26","B00NTYWDNQ","Bellissima Imetec Revolution BHD1 1000 Asciugacapelli Professionale, 1400 W, con Prestazioni da 2000 W, Tecnologia a Ioni, Sistema Eco Efficiency, 8 Combinazioni Aria/Temperatura","0","36.99","0","0","1672621739.97443",NA
+"27","B0089LSRZW","Imetec Bellissima Magic Style PB2 38, Spazzola Professionale Riscaldata, Rivestimento in Gloss Titanium Ceramic, Tecnologia agli Ioni, Diametro 38 mm","0",NA,"0","0","1672621762.20326",NA
+"28","B004ASNGKE","Imetec Bellissima Absolute BA 230 Piastra per Capelli con Ttecnologia a Infrarossi, Capelli Liscio Duraturo, Thermo Control, Display LCD, Custodia Termoprotettiva Inclusa","0","58.26","0","0","1672621784.23397",NA
+"29","B00CEH0LTW","Imetec Travel Ct1 2000 Asciugacapelli Da Viaggio, 1400 W, Doppio Voltaggio, Manico Pieghevole, Tasto Regolazione Aria Temperatura, Nero, Grigio, ‎23.2 x 15.6 x 9.8 cm; 400 grammi","0","18.99","0","0","1672621807.16197",NA
+"30","B009E7CGTI","Bellissima Imetec B 100 Piastra per Capelli, Effetto Liscio, Rivestimento in Ceramica, Regolazione della Temperatura da 150°C a 230°C, Sistema di Riscaldamento Rapido, Pronto all'Uso","0",NA,"0","0","1672621829.57429",NA
+"31","B006UFWP3E","Imetec Diffon Df1 1000 Diffusore Ad Aria Calda Per Capelli Ricci, 700 W, 2 Combinazioni Aria/Temperatura, Asciugatura Delicata, Nero, ‎13 x 18 x 13 cm; 507 grammi","0","49.99","0","0","1672621852.09543",NA
+"32","B00VRGPXF8","Bellissima Imetec GT15 100 Arricciacapelli, Ricci Brillanti e Definiti, Diametro 19 mm, Rivestimento in Ceramica, Riscaldamento Rapido, Pronto all'Uso","0","25.99","0","0","1672621874.41955",NA
+"33","B015O6A6GC","Imetec Bellissima GT15 300 Ferro Arricciacapelli con Rivestimento in Ceramica, Sistema di riscaldamento rapido, Controllo della Temperatura","0",NA,"0","0","1672621896.40714",NA
+"34","B00IZXY762","Imetec Bellissima Style Creator B6 200 Piastra per Capelli, 4 Cover per 4 Styling Diversi, Piastre Esterne Riscaldate per uno Risultato Definito e Duraturo, Rivestimento in Nano-ceramica e Tormalina","0","53.29","0","0","1672621919.24886",NA
+"35","B015O6AB4E","Imetec Salon Expert P1 2300 Asciugacapelli Professionale, 2300 W, Tecnologia a Ioni, Rivestimento Griglia in Ceramica e Tormalina, 8 Combinazioni Aria/Temperatura, Diffusore Professionale","0",NA,"0","0","1672621941.60815",NA
+"36","B009KM58JC","Imetec Salon Expert P1 2000 Asciugacapelli Professionale","0",NA,"0","0","1672621963.45658",NA
+"37","B0063RMBL0","Imetec Salon Expert P8 2000 Asciugacapelli Professionale, 2000 W, 8 Combinazioni Aria/Temperatura, Beccuccio Stretto","0","35.99","0","0","1672621985.38972",NA
+"38","B00AE6HEK4","Imetec Bellissima Creativity B1 700 Piastra per Capelli, Thermo Control 150° - 230°, Piastre Arrotondate per uno Styling Liscio o Mosso","0",NA,"0","0","1672622007.48705",NA
+"39","B015O6AFUO","Imetec Power To Style C19 2000 Asciugacapelli, 2000 W, Beccuccio Direzionabile, Design Compatto, Asciugatura Rapida, 2 Combinazioni Aria/Temperatura","0",NA,"0","0","1672622030.0358",NA
+"40","B00SKVYAVG","Imetec Salon Expert GT16 100 Arricciacapelli","0","19.9","0","0","1672622052.01021",NA
+"41","B015O6AFPE","Imetec C20 2100 Asciugacapelli, 2100 W, Beccuccio Orientabile, Diffusore Professionale, Funzione Fast Drying per un'Asciugatura Rapida, 4 Combinazioni Aria/Temperatura, Colpo Aria Fredda, Cavo 1.8 m","0",NA,"0","0","1672622074.22161",NA
+"42","B015O6A6IA","Imetec Bellissima GH18 800 Spazzola ad Aria Modellante per capelli con 3 Accessori di Styling, Potenza 800 W, 2 Combinazioni Flussi d'Aria/Temperatura, Colpo d'Aria Fredda, Puntale Antiscottatura","0",NA,"0","0","1672622096.27834",NA
+"43","B00SKVYB6K","Bellissima Imetec GT13 50 Arricciacapelli, Rivestimento in Ceramica, 7 Diversi Livelli di Temperatura da 150°C a 210°C, Diametro di 25 mm, Riscaldamento Rapido, Pronto all'Uso","0","23.74","0","0","1672622118.73771",NA
+"44","B0158FP4I4","Bellissima Imetec Revolution BHD2 2000 Asciugacapelli Professionale con Rotazione Automatica, 2000 W, 8 Combinazioni Aria/Temperatura, Tecnologia a Ioni, Diffusore capelli ricci","0",NA,"0","0","1672622140.76673",NA
+"45","B01411FWBK","Imetec Travel Ct1 2000 Asciugacapelli Da Viaggio, 1400 W, Doppio Voltaggio, Manico Pieghevole, Tasto Regolazione Aria Temperatura, Nero, Grigio, ‎23.2 x 15.6 x 9.8 cm; 400 grammi","0","18.99","0","0","1672622163.02876",NA
+"46","B015O6AAVI","Imetec Bellissima Anniversary BA1 100 Piastra per Capelli Lisci in una Sola Passata, Regolazione della Temperatura da 160°C a 230°C, Rivestimento in Ceramica, Sistema di Riscaldamento Rapido","0",NA,"0","0","1672622185.15948",NA
+"47","B015O6ABLW","Imetec Salon Expert P2 2200 Asciugacapelli Professionale, Motore AC 2200 W, Tecnologia a Ioni, Rivestimento in Ceramica e Tormalina, Diffusore Professionale a Dita, Convogliatore Stretto, Nero","0","59.99","0","0","1672622207.4268",NA
+"48","B015O6A68K","Bellissima Imetec Creativity B9 400 Piastra per Capelli, Styling Liscio o Mosso, Rivestimento in Ceramica e Cheratina, Piastre Arrotondate","0","34.01","0","0","1672622230.09011",NA
+"49","B015O6ABKS","Imetec Ultra PC6 2000 Asciugacapelli Professionale con Tecnologia Doppia Turbina, 3 Beccucci, Diffusore Professionale a Dita, Rivestimento Griglia In Ceramica e Tormalina","0",NA,"0","0","1672622251.95275",NA
+"50","B015O6AFUE","Imetec Bellissima Anniversary Intellisense BA20 100 Piastra per Capelli","0",NA,"0","0","1672622274.26692",NA
+"51","B015O6AB3U","Imetec Bellissima Anniversary BA3 700 Piastra per Capelli, Piastre Arrotondate Riscaldate per un Effetto Liscio Totale, Ricci Definiti o Onde Morbide, Rivestimento in Ceramica per Capelli Protetti","0","71.44","0","0","1672622296.48553",NA
+"52","B015O6A6GM","Bellissima Imetec P11 2300 Asciugacapelli Professionale, 2300 W, Rivestimento in Ceramica e Tormalina, 8 Combinazioni Aria/Temperatura, Beccuccio Stretto, Diffusore capelli ricci","0","36.65","0","0","1672622318.57051",NA
+"53","B015O6A6MG","Imetec Bellissima GH18 1000 Spazzola ad Aria Modellante con 5 Accessori di Styling, Potenza 1000 W, 2 Combinazioni Flusso d'Aria/Temperatura, Puntale Antiscottatura","0",NA,"0","0","1672622340.46788",NA
+"54","B0162IJ6NU","Bellissima Imetec GT15 400 Arricciacapelli, Rivestimento in Ceramica e Keratina, 7 Diversi Livelli di Temperatura da 150°C a 210°C, Diametro 32 mm, Sistema di Riscaldamento Rapido Pronto all'Uso","0",NA,"0","0","1672622363.04631",NA
+"55","B005FBTG18","Imetec Bellissima Multicurl S1 700 Arricciacapelli, Ricci Definiti a Lunga Durata, Sistema Easy Curl per Creare Ricci Subito, Rivestimento in Ceramica, 3 Livelli di Temperatura da 170°C a 210°C","0",NA,"0","0","1672622385.01336",NA
+"56","B004ASNGLI","Imetec Salon Expert P4 2500 Ion Asciugacapelli Professionale, Potenza 2000 W, Tecnologia A Ioni, 8 Combinazioni Aria/Temperatura, Nero, ‎29.01 x 24.51 x 11 cm; 300 grammi","0","52.99","0","0","1672622407.2553",NA
+"57","B00VYLJ4H4","Bellissima Imetec Creativity B9 300 Piastra per Capelli, Styling Liscio o Mosso, Rivestimento in Ceramica, Regolazione Temperatura da 150°C a 230°C, Sistema Riscaldamento Rapido","0","30.49","0","0","1672622429.56192",NA
+"58","B00KJ2GWY2","Imetec Power to Style C16 2000 Asciugacapelli da Viaggio, 2000 W, in Dimensioni Ridotte, Manico Pieghevole, Asciugatura Rapida, 3 Combinazioni Aria/Temperatura, Comodo da Portare in Viaggio","0",NA,"0","0","1672622451.77312",NA
+"59","B00G3NJRWK","Imetec Bellissima Creativity B8 100 Piastra per Capelli con Tecnologia a Infrarossi , Capelli Liscio Assoluto o Mosso Definito, Rivestimento in Ceramica e Keratina, Display LCD","0",NA,"0","0","1672622473.96017",NA
+"60","B00RP0J7AW","Bellissima Imetec B9 100 Piastra per Capelli, Piastra extralunghe, Riscaldamento Rapido, Multivoltaggio Automatico, Temperatura 210°, cavo giravole","0","33.76","0","0","1672622496.2687",NA
+"61","B00NAVVTOW","Imetec Bellissima Magic Style PB2 30 Spazzola Professionale Riscaldata, Diametro 30 mm, Rivestimento in Ceramica, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0","31.14","0","0","1672622518.79629",NA
+"62","B0050IIALS","Imetec Salon Expert EC9 100 Piastra Professionale per Capelli, Styling Liscio o Mosso, Rivestimento in Ceramica, Piastre Arrotondate, Display LCD, Regolazione della Temperatura da 130°C a 230°C","0","30.49","0","0","1672622540.71119",NA
+"63","B00SKVYB38","Imetec Bellissima GM9 90 Multistyler 9 in 1","0",NA,"0","0","1672622562.73914",NA
+"64","B0067HDPO8","Imetec ECO KE1 1000 Asciugacapelli, 1400 W con Prestazioni da 2000 W, Tecnologia a Ioni, Diffusore Incluso, 8 Combinazioni Aria/Temperatura, Beccuccio Stretto","0",NA,"0","0","1672622584.75405",NA
+"65","B00DP3SM4K","Imetec ECO CE1 1000 Asciugacapelli, 1400 W con Prestazione da 2000 W, Diffusore Incluso, 3 Combinazioni Aria/Temperatura","0",NA,"0","0","1672622606.9046",NA
+"66","B015O6ABIA","Imetec Bellissima Anniversary BA2 200 Piastra per Capelli, Liscio dalla Radice alle Punte, Piastre Larghe, Rivestimento in Ceramica, Regolazione della Temperatura da 160°C a 230°C","0","58.26","0","0","1672622628.89707",NA
+"67","B00O4QVS66","Bellissima Imetec P2 2200 Asciugacapelli Professionale, Potenza 2200 W, Tecnologia a Ioni per Idratare i Capelli e Ridurre l'Effetto Crespo, 8 Combinazioni Aria/Temperatura, Beccuccio Stretto","0","48.9","0","0","1672622651.16708",NA
+"68","B01HU6D86O","Bellissima Imetec CT1 2000 Asciugacapelli da Viaggio, 1400 W, Doppio Voltaggio, Manico Pieghevole, Tasto Regolazione Aria e Temperatura, Custodia da Viaggio Inclusa","0",NA,"0","0","1672622673.13292",NA
+"69","B005FBTFU0","Imetec Power To Style C12 2000 Asciugacapelli, 2000 W, Design Compatto, Elevata Praticità d'Uso, Asciugatura Rapida, 2 Combinazioni Aria/Temperatura","0","39.09","0","0","1672622695.0586",NA
+"70","B0063RMB1K","Imetec ECO SE1 800 Asciugacapelli, 1400 W con Prestazioni da 2000 W, Beccuccio Stretto, 8 Combinazioni Aria/Temperatura","0","36.99","0","0","1672622717.10099",NA
+"71","B00KJ2GXIC","Imetec Power To Style K5, Asciugacapelli 2200 W, Asciugatura Veloce e Delicata, Tecnologia a Ioni per Idratare e Ridurre l'Effetto Crespo, 8 Combinazioni Aria/Temperatura, Colpo d'aria Fredda","0","35.99","0","0","1672622739.5978",NA
+"72","B009E7CGDO","Imetec Salon Expert E15 50 Piastra per Capelli, Styling Liscio o Mosso, Regolazione Elettronica della Temperatura da 140°C a 230°C, Rivestimento in Nanoceramica per la Protezione Ottimale del Capello","0",NA,"0","0","1672622761.76613",NA
+"73","B00B2K8LH6","Bellissima Imetec Revolution BHS1 100 Piastra per Capelli Automatica, Sistema di Rotazione che Modella Ottimamente la Ciocca, Rivestimento in Ceramica, Regolazione della Temperatura da 120°C a 210°C","0","79","0","0","1672622784.1886",NA
+"74","B015O6AFMM","Imetec Bellissima Anniversary Mini BMA1 100 Piastra per Capelli, Rivestimento in Ceramica, Design Compatto, Sistema di Riscaldamento Rapido Pronto all'Uso","0",NA,"0","0","1672622806.22888",NA
+"75","B002YY6LZS","Bellissima Imetec Bm 200 Piastra Mini Per Capelli Lisci E Luminosi, Temperatura 200°, Multivoltaggio Automatico, Dimensioni Compatte Da Viaggio, ‎7.87 x 1.77 x 0.01 cm; 250 grammi","0","16.9","0","0","1672622828.82841",NA
+"76","B00N4K5PDK","Bellissima Imetec GH16 400 Spazzola ad Aria Modellante con 2 Accessori di Styling, Diametro 25 mm, Potenza 400 W, 2 Combinazioni Flusso d'Aria/Temperatura, Puntale Antiscottatura","0","23.99","0","0","1672622851.15408",NA
+"77","B002YY6LXA","Bellissima Imetec B20 50 Piastra per Capelli, Liscio Impeccabile, Design Slim, Piastre Lunghe, Rivestimento in Nanoceramica e Cristalli di Giada, Regolazione della Temperatura fino a 200°C","0",NA,"0","0","1672622873.12788",NA
+"78","B00765DSJM","Imetec Bellissima Magic Texture B12 100","0","28.66","0","0","1672622895.34309",NA
+"79","B01JOLV9F0","Bellissima Imetec My Pro Revolution BHS4 1100, Spazzola ad Aria Calda, Asciuga e Modella, Rotazione Automatica a Doppio Verso, 2 Spazzole da 40 e 50 mm, Ionizzatore, 1000 W, Rivestimento in Ceramica","0","49.99","0","0","1672622917.55596",NA
+"80","B01LZMBQRG","Imetec Salon Expert P11 2100 Asciugacapelli Professionale, 2100 W, Velocità Flusso d'Aria in Uscita a 142 km/h, Rivestimento in Ceramica e Tormalina, 8 Combinazioni Aria/Temperatura","0","29.99","0","0","1672622939.45334",NA
+"81","B01M0Z17OK","Imetec Salon Expert GT18 100 Arricciacapelli, Diametro Ferro 19 mm, Temperatura fino a 200°C","0","18.99","0","0","1672622961.43098",NA
+"82","B01N75NYSJ","Imetec Bellissima Revolution BHS6 100 Piastra per Capelli Frisè, Sistema Riscaldato a Tecnologia Rotante, Effetto Frisè Impeccabile e Duraturo, Rivestimento in Ceramica per Capelli Protetti","0","39.87","0","0","1672622983.71883",NA
+"83","B00GAP6M1K","Imetec Salon Expert P2 2000 Asciugacapelli Professionale, 2000 W, 8 combinazioni Aria/Temperatura, Colpo d'Aria Fredda, Beccuccio Stretto","0",NA,"0","0","1672623006.38924",NA
+"84","B00CTLDY4W","Bellissima Imetec PC5 2500 Asciugacapelli Professionale, 2000 W, Rivestimento in Ceramica e Tormalina, Tecnologia a Ioni , 8 Combinazioni Aria/Temperatura, Beccuccio Stretto, Diffusore capelli ricci","0",NA,"0","0","1672623028.34645",NA
+"85","B01N55NF5G","Bellissima Imetec Creativity Color Shine B22 100 Piastra per Capelli Colorati, Rivestimento in Tessuto per la Protezione dei Capelli, temperatura regolabile da 150°C a 230°C","0","45.99","0","0","1672623051.08468",NA
+"86","B06WGV3DBP","Bellissima My Pro Imetec Beach Waves Gt20 100 Piastra Per Capelli A Onde Larghe E Strette, Rivestimento in ceramica, temperatura regolabile","0","47.08","0","0","1672623073.62379",NA
+"87","B06WP9PPT6","Bellissima Imetec Intellisense B24 100 Piastra intelligente, Capelli Lisci o Mossi, protetti senza calore eccessivo, Temperatura automatica su misura per tutti i capelli, Rivestimento in Ceramica","0","55.6","0","0","1672623096.01603",NA
+"88","B06XWKNJQJ","Bellissima Imetec Magic Straight Brush Pb5 100 Spazzola Elettrica Lisciante Per Capelli, Effetto Liscio Naturale, Setole Rivestite In Ceramica, Fino A 200° C, Nero, ‎16 x 36 x 5 cm; 800 grammi","0","32.99","0","0","1672623118.35058",NA
+"89","B072MSQDQG","Bellissima Imetec B26 100 Piastra per Capelli Lunghi o Difficili da Disciplinare, Formato Extra Large, Rivestimento in Ceramica, 160° C - 230° C","0","40.99","0","0","1672623141.04629",NA
+"90","B071JZG665","Imetec Power To Style S8 2100 Asciugacapelli, 2100 W, Extra Performance, con Beccuccio Direzionabile, Funzione Fast Drying per un'Asciugatura Rapida, 3 Combinazioni Aria/Temperatura","0","43","0","0","1672623163.4174",NA
+"91","B071WXJWH8","Bellissima Imetec PB9 1200 Magic Brush Zero Tangles Spazzola Lisciante Districante ad Aria, Districa e Asciuga, Incluse 2 Spazzole per Sciogliere Nodi e Lucidare i Capelli","0",NA,"0","0","1672623185.52766",NA
+"92","B009E7CN6O","Imetec Bellissima Magic Style PB3 38 Spazzola Professionale Riscaldata, Diametro 38 mm, Rivestimento in Ceramica e Cristalli di Giada, Sistema Anti Efetto Crespo, Guida Styling Inclusa","0","38.99","0","0","1672623207.43683",NA
+"93","B00G3DNXIE","Bellissima Imetec S5 2200 Asciugacapelli, 2200 W, Asciugatura Rapida e Styling a Lunga Durata, 8 Combinazioni Aria/Temperatura, Colpo d'Aria Fredda","0","23.9","0","0","1672623231.10002",NA
+"94","B00E3QGPQK","Bellissima Imetec K5 2200 Asciugacapelli 2200 W, Asciugatura Veloce e Delicata, Tecnologia a Ioni per Idratare e Ridurre l'Effetto Crespo, 8 Combinazioni Aria/Temperatura, Diffusore capelli ricci","0",NA,"0","0","1672623253.01671",NA
+"95","B007YH05O8","Imetec Bellissima Magic Style PB1 38 Spazzola Professionale Riscaldata","0",NA,"0","0","1672623274.81871",NA
+"96","B0089LSRHK","Imetec Bellissima Magic Style PB2 45, Spazzola Professionale Riscaldata, Rivestimento in Gloss Titanium Ceramic, Tecnologia agli Ioni, Diametro 45 mm","0",NA,"0","0","1672623296.82348",NA
+"97","B0089LSRL6","Imetec Bellissima Magic Style PB2 30, Spazzola Professionale Riscaldata, Rivestimento in Gloss Titanium Ceramic, Tecnologia agli Ioni, Diametro 30 mm","0","43.85","0","0","1672623318.72308",NA
+"98","B06XPBXNCX","Imetec Bellissima Mini HS 500 Piastra per Capelli Mini, Design Compatto Ideale, Rivestimento in Ceramica, Bianca","0",NA,"0","0","1672623340.72431",NA
+"99","B075RGG4Y5","Bellissima Imetec Creativity B27 100 Piastra Per Capelli Con Rivestimento In Ceramica E Controllo Della Temperatura, Temperatura regolabile 150°C / 230°C","0","37","0","0","1672623363.08659",NA
+"100","B075RFR2CV","Bellissima Imetec Gt15 200 Ferro Arricciacapelli Con Rivestimento In Ceramica, Forma Conica, Controllo Della Temperatura, Bianco, ‎25.4 x 5.08 x 6.86 cm; 270 grammi","0","24.99","0","0","1672623385.74632",NA
+"101","B075RFNP23","Imetec Eco SE1 1000 Asciugacapelli con Tecnologia Eco Efficiency, 1400 W, 8 Combinazioni Aria/Temperatura, Diffusore per Capelli Ricci, Nero/Verde","0",NA,"0","0","1672623407.98873",NA
+"102","B075RFR89L","Imetec Bellissima Magic Straight Wet&Dry Brush Spazzola Elettrica Lisciante con Soffio d'Aria e Setole Riscaldate, Rivestimento in Ceramica e Tormalina, 3 Impostazioni d'Uso","0","51.48","0","0","1672623430.14539",NA
+"103","B076FWLL9C","Imetec Bellissima Beach Waves Multi Star Edition GT 20 200 Piastra per Capelli con Rivestimento in Ceramica e Tormalina per fare Onde Larghe e Strette, Effetto Naturale, Beauty Bag Termica Inclusa","0","38.99","0","0","1672623452.08088",NA
+"104","B00U7FFR0G",NA,"0",NA,"0","0","1672623472.04809",NA
+"105","B079FN8N4T","Bellissima Imetec Bm 200 Piastra Mini Per Capelli Lisci E Luminosi, Temperatura 200°, Multivoltaggio Automatico, Dimensioni Compatte Da Viaggio, ‎7.87 x 1.77 x 0.01 cm; 250 grammi","0","16.9","0","0","1672623494.92967",NA
+"106","B0154Z2W06","Bellissima Imetec B21 100 Piastra per Capelli Lisci e Luminosi con Rivestimento in Ceramica, Temperatura 210°C, Piastre Riscaldate Oscillanti per Elevata Efficacia di Stiratura","0","27.45","0","0","1672623517.0687",NA
+"107","B01BNTLKU0",NA,"0",NA,"0","0","1672623537.12126",NA
+"108","B079ZLWJNJ","Imetec Salon Expert P3 3200 Asciugacapelli Professionale, 2200 W, Griglia con Rivestimento in Ceramica, Tecnologia a Ioni, 8 Combinazioni Aria/Temperatura","0",NA,"0","0","1672623559.47398",NA
+"109","B079Z9GXQS","Imetec Salon Expert P5 3600 Asciugacapelli Professionale, 2300 W, Griglia con Rivestimento in Ceramica e Cheratina, Tecnologia a Ioni, 8 Combinazioni Aria/Temperatura, 2 Beccucci","0","44.99","0","0","1672623581.94474",NA
+"110","B07FZ4PVRP","Bellissima My Pro Imetec Steam B28 100 Piastra per Capelli Professionale a Vapore, Effetto Liscio a Lungo, Ceramica, Temperatura Regolabile 170°C - 200°C - 230°C, Riscaldamento Rapido","0","52.99","0","0","1672623604.9159",NA
+"111","B07JVLQ38M","Bellissima My Pro Imetec Ceramic P5 3800 Asciugacapelli Professionale Per Capelli Morbidi E Luminosi, Tecnologia Ceramica, 2300 W","0","59.79","0","0","1672623627.25867",NA
+"112","B07FYHM3QY","Bellissima Imetec Magic Straight Brush PB11 100 Spazzola Elettrica Lisciante, 3 Lati Esterni Riscaldati, Spegnimento automatico, Tecnologia a Ioni, Ceramica, 160 C°- 210°C","0","74.9","0","0","1672623649.89057",NA
+"113","B0158FIIGE",NA,"0",NA,"0","0","1672623670.0124",NA
+"114","B07P35CW1X","Bellissima Imetec Beach Waves GT20 300 Piastra per Capelli, Rivestimento in Ceramica, Onde Larghe e Strette, Effetto Naturale, 3 Livelli Temperatura 160 C°- 200°C, Borsa termica inclusa","0",NA,"0","0","1672623692.49413",NA
+"115","B07S5L8VYG","Bellissima My Pro Imetec Magic Style Brush P2 30 Spazzola Riscaldata, Capelli Liscio Effetto Naturale/Mosso Sostenuto, Diametro 30 mm, Tecnologia a Ioni, Rivestimento Ceramica","0","43.85","0","0","1672623714.93549",NA
+"116","B07S73QCFC","Bellissima Imetec 2 In 1 Straight&Waves Piastra Capelli, Capelli Effetto Liscio o onde Beach Waves, Rivestimento in Ceramica, 4 Livelli di Temperatura da 150°C a 210°C, Piastre XL 5 x 9,5 cm","0",NA,"0","0","1672623737.05145",NA
+"117","B07S5L9937","Bellissima Imetec My Pro Creativity Infrared B8 200, piastra lisciante, tecnologia raggi infrarossi, rivestimento in ceramica e cheratina, 11 livelli di temperatura da 130 °C a 230 °C, cavo 1,8 m","0","58.26","0","0","1672623759.54514",NA
+"118","B07V9GN42Q","Bellissima Imetec 2 In 1 Straight&Waves Piastra per Capelli con Doppio Profilo, Capelli Effetto Liscio o onde Beach Waves, Rivestimento in Ceramica, 4 Livelli di Temperatura da 150°C a 210°C","0","51.99","0","0","1672623782.44162",NA
+"119","B00HLUUNOK","Bellissima Imetec Creativity B15 50 Piastra per Capelli, Styling Liscio o Mosso, Rivestimento in Nanoceramica, Regolazione della Temperatura da 140°C a 230°C, Piastre Oscillanti","0",NA,"0","0","1672623804.71342",NA
+"120","B07W3VJQZD","Bellissima My Pro Imetec GH18 1100 Modellatore ad Aria, Rivestimento spazzole in Ceramica, 5 Accessori per Realizzare Capelli Lisci e Luminosi, a Onde morbide o Ricci Stretti, 1000 W","0","32.99","0","0","1672623827.25813",NA
+"121","B082WSYYCX","Bellissima Imetec Asciugacapelli K9 2300 Asciuga e Mantiene Idratati i Capelli senza Effetto Crespo, 2300 W, Tecnologia a Ioni, 8 Combinazioni Flusso d'Aria Temperatura, Diffusore capellli ricci","0","39.65","0","0","1672623849.66829",NA
+"122","B082WSZXHB","Bellissima Imetec Asciugacapelli S9 2200 Asciuga e Modella con Precisione, 2200 W, 8 Combinazioni Flusso d'Aria Temperatura, Beccussio di precisione, Colpo aria fredda","0","25.99","0","0","1672623872.15646",NA
+"123","B07Y8DPHCL",NA,"0",NA,"0","0","1672623892.18691",NA
+"124","B07Y8DHN3F","Imetec ECO SE9 1000 Asciugacapelli con Tecnologia Eco Technology 1400 W, Consumo Energetico Ridotto, 8 Combinazioni Aria/Temperatura, Diffusore per Capelli Ricci","0","36.99","0","0","1672623914.72986",NA
+"125","B07Y8GSGKD","Bellissima Imetec Beach Waves Multi GT21 100 piastra per capelli a onde 4 in 1, 4 tipi di onde diverse per tante acconciature con un semplice gesto","0",NA,"0","0","1672623937.0164",NA
+"126","B00KMU7SYY",NA,"0",NA,"0","0","1672623957.04593",NA
+"127","B08BXFXMBH",NA,"0",NA,"0","0","1672623977.24497",NA
+"128","B09SGB55N4","Bellissima Imetec Diffon Supreme, Diffusore Ad Aria Calda Per Capelli Ricci, Diffusore Xl Con 12 Dita, 2 Velocità, 3 Temperature, Asciugatura Delicata, Nero E Oro, ‎15 x 15 x 19.5 cm; 600 grammi","0","90.24","0","0","1672623999.92987",NA
+"129","B09ZJ9QXZY","Bellissima Imetec Creativity Ceramic & Tourmaline, Piastra per Capelli, Liscio o Mosso, Rivestimento in Ceramica e tormalina, Regolazione Temperatura da 150-230°C, Riscaldamento Rapido","0","44.99","0","0","1672624022.3946",NA
+"130","B09ZF4CS7D",NA,"0",NA,"0","0","1672624042.42029",NA
+"131","B09ZF4P9LV","Imetec Callus Remover, Pedicure Elettrico, Rimuove Calli e Pelle Secca, 2 Rulli a Grana Grossa e Fine Lavabili, Rotazione Automatica, Coperchio Protettiva, 2 Batterie Incluse, per Donna e Uomo","0","19.99","0","0","1672624064.87113",NA
+"132","B015NVW8HS",NA,"0",NA,"0","0","1672624084.79643",NA
+"133","B0154G9JQU","Imetec Living Air M2-100 Termoventilatore, 2200 W, 3 Livelli di Temperatura, Termostato Ambiente, Silenzioso, Funzione antigelo","0","38.92","0","0","1672624107.37341",NA
+"134","B00NJ71UWI","Imetec Living Air C2-100 Termoventilatore 2200 W, 3 Livelli di Temperatura, Impugnatura Ergonomica","0","52.24","0","0","1672624129.36933",NA
+"135","B004ASNGL8","Imetec Living Air C1-100, 4910G, 75902, Termoventilatore Compatto","0",NA,"0","0","1672624151.43967",NA
+"136","B0154G96J0","Imetec Eco Ceramic Diffusion CFH2-100 Termoventilatore Oscillante con Tecnologia Ceramica a Basso Consumo Energetico, Oscillante, 6 Funzioni di Temperatura","0",NA,"0","0","1672624173.83361",NA
+"137","B004ASNGFO","Imetec Eco Silent Diffusion FH4-300 Termoventilatore Oscillante e Silenzioso a Basso Consumo Energetico, 3 Livelli di Temperatura, Termostato Ambiente","0",NA,"0","0","1672624195.98884",NA
+"138","B004ASNGNQ","Imetec Eco Silent FH5-100 Termoventilatore Silenzioso a Basso Consumo Energetico, Maniglia Ergonomica, 3 Livelli di Temperatura, Termostato Ambiente","0",NA,"0","0","1672624217.98452",NA
+"139","B00E4KNTSM",NA,"0",NA,"0","0","1672624238.04415",NA
+"140","B0987CNV93","Imetec Eco Rapid, Stufa Elettrica 2000 W, Tecnologia a Basso Consumo Energetico, Termoconvettore 4 Temperature, Termostato Ambiente, Silenzioso","0",NA,"0","0","1672624260.49764",NA
+"141","B0094DXP2O","Imetec Living Air Color C1-100 Termoventilatore Compatto","0",NA,"0","0","1672624282.24392",NA
+"142","B075WVHGMB","Imetec Living Air C2-200 Termoventilatore Compatto, 2200 W, Termostato Ambiente, Silenzioso, maniglia Ergonomica","0",NA,"0","0","1672624304.31369",NA
+"143","B079F2H58S","Imetec Living Air C4-100 Termoventilatore, 2000 W, Compatto ed Elegante, Silenzioso, Termostato Ambiente","0",NA,"0","0","1672624326.47703",NA
+"144","B07CKMWSG6","Imetec Living Air M2-400 Termoventilatore con Ionizzatore 2200 W, 3 Livelli di Temperatura, Termostato Ambiente, Nero","0",NA,"0","0","1672624348.38047",NA
+"145","B00FM266R2","Imetec Dolcevita ES4 Bilancia Elettronica da Cucina, Pesa Solidi e Liquidi, Contenitore Estraibile, Scala Graduata, Portata 5 Kg, Divisione 1 g, Funzione Tara, Display Digitale, Spegnimento Automatico","0","33.99","0","0","1672624370.92601",NA
+"146","B00KU2O2R0","Imetec Zero glu Macchina Pane, 920 W, fino a 1 kg di pane, Plastica, Bianco","0","179.99","0","0","1672624393.49505",NA
+"147","B0050IHX98","Imetec Dolcevita TS1 Tostapane, 500 W, Acciaio Inossidabile, 2 Scomparti, Bianco","0",NA,"0","0","1672624415.46591",NA
+"148","B00E3QGS3U",NA,"0",NA,"0","0","1672624435.5494",NA
+"149","B00GAY1RQQ","Imetec Dolcevita TS9 Tostapane, 7 Livelli di Doratura, 2 Pinze in Acciaio Inox, Timer con Autospegnimento, Design Compatto, Cassetto Raccogli-briciole, Pratico Avvolgicavo, 3 Colori, 500 W","0",NA,"0","0","1672624457.62227",NA
+"150","B013Y0U7SC","Imetec Dolcevita SM3 Tostiera, 800 Watt, Grigio","0",NA,"0","0","1672624479.59084",NA
+"151","B00NM8FSJ0","Imetec Griglia&Gusta Bistecchiera, Piastre Antiaderenti Removibili, Rivestimento Triplo Strato al Titanio Stone-Look, Grill con 7 Posizioni, 3 Funzioni di Cottura, Thermo Control, 2000 Watt","0","112.99","0","0","1672624502.12928",NA
+"152","B0158R6S3M",NA,"0",NA,"0","0","1672624522.04583",NA
+"153","B00NM8FSNG","Imetec Professional Serie TS 600 Tostapane, 2 Fessure Extralarge e Pinze Apribili per Toast Extrafarciti, 10 livelli di doratura, Timer con Autospegnimento, Cassetto Raccogli-briciole, 600 W","0",NA,"0","0","1672624544.24936",NA
+"154","B0067HDP3E","Imetec Dolcevita HP1 Fornelletto, 1500 W, 50 Hz, Bianco","0",NA,"0","0","1672624566.05277",NA
+"155","B0086W3P4C","Imetec Dolcevita HP2 Fornelletto, 2500 W, 50 Hz, Bianco","0",NA,"0","0","1672624587.63744",NA
+"156","B01LXNKQOL","Imetec Panemio macchina del pane, Impasta lievita e cuoce, 12 programmi, cestello pagnotta, Accessorio panini, 3 livelli di doratura, Avvio programmabile, 550 W, Ricettario","0","119.99","0","0","1672624610.63775",NA
+"157","B075R6RQB9","Imetec KT 100 Bollitore, Rapida Ebollizione, 1,7 L, Indicatore di Temperatura Acqua, Acciaio Inox, 2200 W, con Guida tè e tisane","0",NA,"0","0","1672624632.72361",NA
+"158","B0050IHCT4","Imetec HB2 100 Frullatore a Immersione, Lame in acciaio inox, Funzionamento ad impulsi, Impugnatura Ergonomica, 170 W","0",NA,"0","0","1672624654.79201",NA
+"159","B0069OEQA6","Imetec Professional Serie HB 2000 Frullatore a Immersione, con Tritatutto e Frusta, Gambo Estraibile e Lame in Acciaio Inox, 2 Velocità, Bicchiere Graduato, 600 W","0",NA,"0","0","1672624677.02614",NA
+"160","B004ASNGMM","Imetec La Grattugia, grattugia elettrica, Rullo in Acciaio Inox, Tramoggia in Alluminio, Contenitore Estraibile con Coperchio Salvafreschezza, Sistema di Sicurezza, 150 W","0","89","0","0","1672624699.43842",NA
+"161","B0050IH7PS","Imetec Dolcevita HB2 500 Frullatore a Immersione","0",NA,"0","0","1672624721.29074",NA
+"162","B0050IH76W","Imetec Dolcevita ST7 Sbattitore Elettrico, Frusta Elettrica per Impasti Dolci e Panna Montata, Ganci Acciaio Inox per Impastare, 5 Velocità + Turbo, Design Ergonomico, 200 W","0",NA,"0","0","1672624743.25131",NA
+"163","B006KOOYMU","Imetec CG1 100 Macina Caffè e Spezie Elettrico con Lame in Acciaio Inox, Contenitore Salva-Freschezza, Funzionamento a Impulsi, Macinino per Caffè, Spezie, Pepe, Zucchero, Frutta Secca, 150 W","0",NA,"0","0","1672624765.40805",NA
+"164","B0050IGZC4","Imetec CP4 Spremiagrumi Elettrico, Cono Universale, Filtro Antipolpa, Doppio Senso di Rotazione, Funzionamento a Pressione, Contenitore 300 ml BPA Free, Compatto","0","19.99","0","0","1672624787.70265",NA
+"165","B0064LNOFM",NA,"0",NA,"0","0","1672624807.67336",NA
+"166","B006FX36GQ","Imetec Professional Serie HB 1000 Frullatore a Immersione, Gambo Estraibile e Lame in Acciaio Inox, 2 Velocità, Bicchiere Graduato, 600 W","0","21.99","0","0","1672624829.91469",NA
+"167","B004ASNGJ0",NA,"0",NA,"0","0","1672624849.9887",NA
+"168","B0063RM8H2",NA,"0",NA,"0","0","1672624870.17782",NA
+"169",NA,NA,NA,NA,NA,NA,NA,NA
+"170","B009E7BWQQ","Imetec BL4 700 Frullatore con 4 Lame Tritaghiaccio Inox, Bicchiere in Vetro Alto Spessore 800 ml, Corpo in Acciaio, 2 velocità con Pulse, Foro Dosa Liquidi, 500 W, 0.8 Litri","0",NA,"0","0","1672625293.50808",NA
+"171","B009E7BTA0","Imetec Wellness JE Centrifuga per Succhi di Frutta e Verdura, 2 Velocità, Filtro Microforato in Acciaio Inox, Ampia Apertura 65 mm, Estrattore di Succo con Ricettario, 400 W, Rosa","0",NA,"0","0","1672625315.54069",NA
+"172","B004ASNGIQ","Imetec FrullaTutto Frullatore, Lame Tritaghiaccio in Acciaio Inox, Bicchiere da 800 ml in Vetro Antigraffio, 2 Velocità, Funzionamento Impulsi, 500 W, 2 Velocità, Lavabile Lavastoviglie","0","42.99","0","0","1672625337.89235",NA
+"173",NA,NA,NA,NA,NA,NA,NA,NA
+"174","B0057FZEKE","Imetec Professional Serie ST 1000 Sbattitore Elettrico, Frusta Elettrica per Impasti Dolci e Panna Montata, Ganci Acciaio Inox per Impastare, 2 Velocità, 400 W","0",NA,"0","0","1672625687.68805",NA
+"175","B0169W81UI","Imetec Zero-Glu KM 1500 Impastatrice per Pane, Pizza, Pasta e Dolci Senza Glutine, Gancio per Celiaci, Gancio Tradizionale, Frusta in Acciaio, Movimento Planetario, Recipiente 6 l, 1500 W, Ricettario","0",NA,"0","0","1672625709.63851",NA
+"176",NA,NA,NA,NA,NA,NA,NA,NA
+"177","B00OQ386EE","Imetec Accessorio Spaghetti-Machine per Impastatori Zero-Glu KM 1500 e Cucina Italiano KM 2000","0","309.05","0","0","1672626095.76102",NA
+"178","B0158QX43A",NA,"0",NA,"0","0","1672626115.79467",NA
+"179","B01LZ1Y47Q","Imetec SuccoVivo SJ 1000 Estrattore di Succo a Freddo Professionale, Spremitura Lenta, Potente Motore a Induzione, Senza Lame, 2 Filtri","0",NA,"0","0","1672626138.02231",NA
+"180","B0050IHBR2","Imetec Bimbo Hm3 Omogeneizzatore, 2 Vasetti Salvafreschezza, Lame Acciaio Inox, Funzionamento Ad Impulsi, 0.4 Litri","0","42.99","0","0","1672626160.78743",NA
+"181","B0081SYSOW","Imetec Professional Serie VM 1000 Macchina Sottovuoto","0",NA,"0","0","1672626182.85404",NA
+"182","B00OQ38BH6","Imetec Cucina Italiano KM 2000 Impastatrice per Pane, Pizza, Pasta e Dolci, 3 Ganci Intercambiabili, 2 Accessori, Movimento Planetario, Recipiente in Acciaio Inox 6 l, 1500 W, con Ricettario","0",NA,"0","0","1672626204.868",NA
+"183","B008F8E4PG","Imetec Grattugella Grattugia Elettrica Ricaricabile, Senza Filo, Formaggio Direttamente nel Piatto, Cordless, Rullo in Acciaio Inox, Autonomia 1 ora, Funzionamento a Pressione, Impugnatura Ergonomica","0",NA,"0","0","1672626226.83872",NA
+"184","B00G98HUOQ","Imetec Cukò Robot da Cucina Multifunzione con Cottura, Multicooker con 3 Programmi Automatici di cottura per Risotti, Pasta e Vellutate, 8 Funzioni, 570 W, 4 Porzioni, con Ricettario","0",NA,"0","0","1672626248.88999",NA
+"185","B0050IH9LU","Imetec Dolcevita CH5 Tritatutto","0",NA,"0","0","1672626270.97387",NA
+"186","B01EYQUM2G",NA,"0",NA,"0","0","1672626290.9354",NA
+"187","B01JOL22Y2","Imetec HB3 Frullatore a Immersione, Gambo Large Estraibile, Lame in Acciaio Inox, Funzionamento a Impulsi, 450 W","0",NA,"0","0","1672626313.21528",NA
+"188","B01LZA1T4H","Imetec Succovivo Compact SJ 700 Estrattore di Succo a Freddo per Frutta e Verdura, Slow Juicer Compatto con Filtro Succhi, Spremitura Lenta, Velocità Regolabile, con Ricettario","0",NA,"0","0","1672626335.21213",NA
+"189",NA,NA,NA,NA,NA,NA,NA,NA
+"190","B01LXNKQYD","Imetec ST 500 Sbattitore Elettrico, Fruste Lunghe per Impasti Dolci e Panna Montata, Ganci Acciaio Inox per Impastare, 5 Velocità + Turbo, Design Ergonomico, 200 W","0",NA,"0","0","1672626704.20596",NA
+"191","B00OQ386AS","Imetec Accessorio Tritacarne per Impastatori Zero-Glu KM 1500 e Cucina Italiano KM 2000","0",NA,"0","0","1672626725.75799",NA
+"192","B06X1D31QX",NA,"0",NA,"0","0","1672626745.79547",NA
+"193","B072QRG7BZ","Imetec CH 500 Tritatutto, Lame in Acciaio Inox, Contenitore 400 ml, Funzionamento a Pressione, Compatto, 350 W, Nero","0",NA,"0","0","1672626768.2266",NA
+"194","B005PW7S0I","Imetec 7323 ECO CP Spremiagrumi","0",NA,"0","0","1672626789.79673",NA
+"195","B015WNPANQ",NA,"0",NA,"0","0","1672626809.88102",NA
+"196","B0736QWV24","Imetec Succovivo Compact 800 Estrattore di Succo a Freddo, Filtro Succhi, Accessorio Sorbetti, Compatto, Spremitura Lenta, Velocità Regolabile, con Ricettario","0",NA,"0","0","1672626832.1545",NA
+"197","B0711KBY99","Imetec Personal e Sport Blender PB 100 Mini Frullatore con 2 Bottiglie Take-Away in Tritan e 4 Lame in Acciaio Inox, 22,000 giri/min","0","41.5","0","0","1672626854.37225",NA
+"198","B00GAY1NXS","Imetec NA 100 Aspiratore Nasale","0","65.98","0","0","1672626876.39468",NA
+"199","B008HRP9IG","Imetec Wellness KS Bilancia da Cucina Digitale","0",NA,"0","0","1672626898.03523",NA
+"200","B076998CD8","Imetec Succovivo Pro 2000 Estrattore di Succo Professionale a Freddo, Spremitura Lenta 48 Giri/Min, 2 Filtri per Succhi, Accessorio per Granite e Sorbetti, Kit per Maschere Bellezza, con Ricettario","0",NA,"0","0","1672626920.30648",NA
+"201","B071451JHC",NA,"0",NA,"0","0","1672626940.36328",NA
+"202","B0755CJFPL","Imetec Sp 100 Spiralizer Elettrico, Tagliaverdure a Spirale, Affetta Verdure in 3 Forme Spaghetti, Tagliatelle, Pappardelle, Lame in Acciaio Inox, Contenitore Bpa Free 500 Ml, Sistema di Sicurezza","0","49.99","0","0","1672626963.23996",NA
+"203","B07MVXGBXQ","Imetec Gourmet 300° C Pro Ow1 3000 Forno Elettrico, Tecnologia Pizza 300° C, 6 Funzioni, Professionale, Pietra Refrattaria, Doppia Porta, 2200 W, 32 litri, Ricettario","0","85.99","0","0","1672626985.32975",NA
+"204","B07J3SF9XC",NA,"0",NA,"0","0","1672627005.29599",NA
+"205","B07MZJFVP5","Imetec VM2 50 Set 2 Rotoli per Macchina Sottovuoto, 30 x 600 cm, BPA Free, Made in Italy","0",NA,"0","0","1672627027.54556",NA
+"206","B00IHXRDPW","Imetec Original CP Spremiagrumi Elettrico Funzionamento a Leva con Braccio di Spremitura, Cono Universale con Alette Premi-Polpa, Filtro Antipolpa, Doppio Senso di Rotazione, Sistema Antigoccia, Rosso","0",NA,"0","0","1672627049.55592",NA
+"207",NA,NA,NA,NA,NA,NA,NA,NA
+"208","B07JVDXQC9","Imetec TS11 500 Tostapane, 5 Livelli di Doratura, 2 Pinze Inox, Timer con Autospegnimento, Indicatore Luminoso, Cassetto Raccogli-briciole, 500 W","0",NA,"0","0","1672627340.63998",NA
+"209","B07NXSV38C","Imetec HB5 1500 Frullatore a Immersione, Lame in Acciaio Inox, Piede Extra Large, 2 Velocità, Gambo Estraibile, Bicchiere da 1 Litro, Potenza 800 W, 15.000 Giri/Min","0",NA,"0","0","1672627362.80021",NA
+"210","B07P21NNPD","Imetec HB5 2500 Frullatore a Immersione, 3 Accessori, Tritatutto, Frusta e Bicchiere, Piede Extra Large, 2 Velocità, Potenza 800 W, 15.000 Giri/Min, Inox","0",NA,"0","0","1672627384.95877",NA
+"211","B07P35D3MC","Imetec BL3 300 Frullatore Compatto, Bicchiere in Plastica BPA Free, Capacità 700 ml, Coperchio Dosa Liquidi, 250 W","0",NA,"0","0","1672627407.5882",NA
+"212","B07PN685MZ","Imetec Cukò Maestro, Robot da cucina con cottura, 20 programmi, 10 funzioni, Impasta Pane e Pizza, capienza 2 L, Fino a 6 porzioni, 8 accessori, ricettario, 1000 W","0",NA,"0","0","1672627429.73269",NA
+"213","B008DREZM6","Imetec VM2 10 Set 50 Sacchetti per Macchina Sottovuoto, BPA Free, 20 x 30 cm, Made in Italy, Plastica","0","15.3","0","0","1672627452.06429",NA
+"214","B07V8HZXXQ","Imetec Succovivo SJ4 1200 Estrattore di Succo a Freddo per Frutta e Verdura, Spremitura Lenta 50 Giri/Min, Tecnologia Easy Juice, Filtro Succhi, Accessorio Sorbetti, Pulizia 2 Minuti, Bianco/Nero","0",NA,"0","0","1672627474.83698",NA
+"215","B07V7DRR7S","Imetec ST5 700 Sbattitore Elettrico, Fruste Extra Lunghe per Impasti Dolci e Panna Montata, Ganci Acciaio Inox per Impastare, 5 Velocità, Funzione Turbo, Design Ergonomico, 500 W","0",NA,"0","0","1672627496.73897",NA
+"216","B07V69QDFR","Imetec SM3 900 Tostiera, Piastre XL Rigate e Antiaderenti, Interruttore ON/OFF, Spia Riscaldamento Piastre, Gancio Chiusura, Avvolgicavo, Tostapane Compatto, 900 W, Grigio Medio","0",NA,"0","0","1672627518.83185",NA
+"217","B0848JZ6KP","Imetec Zero-Glu Pro, Macchina per Pane, Ciabatte e Panini senza Glutine per Celiaci, Pasta Pizza, Dolci, Marmellate, 20 Programmi, 2 Pale Impastatrici, Temperatura Levitazione Controllata, Ricettario","0","179.99","0","0","1672627541.49945",NA
+"218","B00A6B4RW0","Imetec Bellissima Face FX Dispositivo per il Fotoringiovanimento, Tecnologia Thermo Optical Synergy per Stimolare l'Attività Cellulare e la Produzione di Collagene, Pelle Subito Compatta","0","29.99","0","0","1672627563.40394",NA
+"219","B00IRAFHB2","Bellissima Imetec Kit Testine di Ricambio Face Cleansing per Pelli Normali e Pelli Sensibili, 4 Diverse Testine per Detergere, Massaggiare, Levigare e Idratare La Pelle","0","14.77","0","0","1672627585.59631",NA
+"220","B00DUFC4BA","Bellissima Imetec Perfection Beauty Mirror Specchio Retroilluminato, Ingrandimento 3x, Diametro 128 mm, Applicabile con Ventosa o Fissa su Specchi e Pareti Verticali oppure su Superfici Orizzontali","0",NA,"0","0","1672627607.80092",NA
+"221","B00856SPB2",NA,"0",NA,"0","0","1672627627.79614",NA
+"222","B00Y7YLYGE","Bellissima Imetec Kit Micro Rulli Lucida Unghie Automatico con 2 Micro Rulli Leviganti e 2 Micro-Rulli Lucidanti, Facilitano la Stesura dello Smalto","0","9.9","0","0","1672627650.10547",NA
+"223","B00Y7YLYIM","Bellissima Imetec Face Cleansing Pro Kit Testine di Ricambio Spazzola per un Trattamento Personalizzato e una Detersione Profonda del Viso","0",NA,"0","0","1672627672.16296",NA
+"224","B00VJSOZE4","Imetec Bellissima Face Cleansing Pro Spazzola per la Pulizia del Viso, Tecnologia Sonica per la Detersione del Viso, Testine Intercambiabili per un Trattamento Viso Personalizzato","0",NA,"0","0","1672627694.31354",NA
+"225","B00T9QV4DS","Imetec Bellissima Active Scrub Kit Rulli Pedicure di Ricambio, Piedi Lisci e Levigati","0","8.9","0","0","1672627716.44953",NA
+"226","B008HRP6UW","Bellissima Imetec Sensitive Beauty MP1 100 Set Manicure e Pedicure, 4 Accessori, Controllo della Velocità, Doppio Senso di Rotazione, Risultati Professionali","0",NA,"0","0","1672627738.54594",NA
+"227","B009E7CBIY","BELLISSIMA Imetec face cleansing spazzola per pulizia viso, Deterge ed esfolia la pelle del viso","0","29.99","0","0","1672627760.87857",NA
+"228","B00VJSOZJO","Bellissima Imetec Body Cleansing Pro Spazzola Esfoliante Corpo con Testine ad Azione Mirata per la Rimozione delle Cellule Morte, Setole Adatte ad Ogni Tipo di Pelle, Uso Anche Sotto la Doccia","0","59.99","0","0","1672627783.24867",NA
+"229","B00DUFC5M8","BELLISSIMA Imetec Perfection Beauty Station Specchio Illuminazione Circolare a LED Naturale, Ingrandimento 5x, Diametro 195 mm, Ventose e Magnete Inclusi per Applicarlo a Superfici Verticali","0","27.39","0","0","1672627805.25118",NA
+"230","B00VJSOZ8A","Bellissima Imetec Lucida Unghie Automatico, Sistema Rotante Automatico, 2 Diversi Rulli Levigante e Lucidante, Comodo Anche in Viaggio","0",NA,"0","0","1672627827.33534",NA
+"231","B01HOA2XEE",NA,"0",NA,"0","0","1672627847.26575",NA
+"232","B01LYO6HXV","Bellissima Imetec Face Cleansing Cleanse&Massage Spazzola per la Pulizia del Viso, 3 Testine per Trattamento Personalizzato, Tecnologia a Vibrazione Sonica, 2 velocità, Beauty bag da viaggio","0",NA,"0","0","1672627869.64028",NA
+"233","B008HRP6XO","Imetec Bellissima Active Scrub Set Pedicure Elettrico, 2 Rulli Leviganti a Grana Grossa e Grana Fine, Design Ergonomico e Compatto, Spazzolina per la Pulizia dei Rulli Inclusa","0",NA,"0","0","1672627891.52835",NA
+"234","B06XVGK6QK","Bellissima Imetec Total Beauty Pedicure Elettrico per la Cura di Piedi e Unghie, 3 Rulli Inclusi","0","28.83","0","0","1672627913.8047",NA
+"235","B072Q1FDQ3",NA,"0",NA,"0","0","1672627933.81351",NA
+"236","B071LTX5ZM","Bellissima Imetec Total Beauty Pedicure Kit 3 Rulli di Ricambio","0",NA,"0","0","1672627955.88374",NA
+"237","B0728PHH5F","Imetec Face Cleansing Cleanse&Massage Kit di Testine di Ricambio","0","14.77","0","0","1672627977.73345",NA
+"238","B072K6WZZB","Bellissima Imetec Bikini Beauty Express Rasoio Elettrico e Rifinitore per la Depilazione della Zona Bikini, Ascelle e Sopracciglia, 2 Testine Lavabili, 4 Pettinini Distanziatori","0",NA,"0","0","1672628000.48648",NA
+"239","B0050IIK72",NA,"0",NA,"0","0","1672628020.54561",NA
+"240","B0050IILSA",NA,"0",NA,"0","0","1672628040.73877",NA
+"241","B005QZ4ET2","Imetec HC7 200 Tagliacapelli","0","50.4","0","0","1672628063.10752",NA
+"242","B015O6AFJ0","Imetec Hi-Man HC10 100 Tagliacapelli","0","29.26","0","0","1672628085.27116",NA
+"243","B015O6AG6M","Imetec Hi-Man GK5 100 Regolabarba, Bianco, Corded-Electric","0","29.59","0","0","1672628107.2968",NA
+"244","B00SKVYBAG","Imetec Hi-Man Pro GK4 100 Regolabarba Professionale","0","58.34","0","0","1672628129.63281",NA
+"245","B00NAVVTP6","Imetec Hi-Man Pro HC8 100 Tagliacapelli","0","29.59","0","0","1672628152.2525",NA
+"246","B0050IH1OA","Imetec Hi-Man Expert HC7 100 Tagliacapelli, ac/dc","0","39.9","0","0","1672628174.51333",NA
+"247","B00NAVVTNI","Imetec Hi-Man HC9 100 Tagliacapelli, 50 Hz, 600 mAh, Nero","0",NA,"0","0","1672628196.72664",NA
+"248","B01M0KYE4E","Imetec Barber Kit BK1 100 Regolabarba","0",NA,"0","0","1672628219.20055",NA
+"249","B007ISMJQU","Imetec Hi-Man Expert HC10 100 Tagliacapelli, nero","0",NA,"0","0","1672628241.18758",NA
+"250","B009P1X0T8","Imetec Hi-Man GK3 500 Regolabarba, Nero/Argento","0","26.99","0","0","1672628263.1974",NA
+"251","B079Z9GZK3","Ducati By Imetec Tagliacapelli Professionale HC 919 Podium, Lame Acute Angles Rivestite in Titanio, 13 Regolazioni da 1 mm a 25 mm, Ricarica Rapida, Cordless","0",NA,"0","0","1672628285.26325",NA
+"252","B079ZLXZ9Z","Ducati By Imetec Tagliacapelli HC 909 S-Curve, Lame Rivestite in Titanio, 13 Regolazioni da 1 mm a 25 mm, Ricarica Rapida, Cordless, ca/batteria","0",NA,"0","0","1672628307.60831",NA
+"253","B079ZKKLCJ","Ducati By Imetec Tagliacapelli HC 719 Steering, Lame in Acciaio Inossidabile ad Alta Resistenza, 15 Regolazioni da 1 mm a 23 mm, Cordless, batteria","0",NA,"0","0","1672628329.74932",NA
+"254","B079ZKKZ3B","Ducati By Imetec Kit Regolabarba GK 818 Race, 16 in 1 per Viso e Corpo, Lame Rivestite in Titanio, Lama Extralarge, Mini Shaver, Body Shaver, Rifinitore di Precisione","0",NA,"0","0","1672628351.91628",NA
+"255","B079ZLVGKL","Ducati By Imetec Kit Regolabarba GK 808 Circuit, 13 in 1 per Viso e Corpo, Lame Rivestite in Titanio, Lama Extra Large, Rifinitore di Precisione, Body Shaver, ca/batteria","0",NA,"0","0","1672628374.50737",NA
+"256","B079ZLSTZM","Ducati By Imetec Kit Regolabarba GK 618 Gearbox, 8 in 1 per Viso e Corpo, Lame in Acciaio Inossidabile, Rifinitore di Precisione, Body Shaver, ca/batteria","0",NA,"0","0","1672628396.66847",NA
+"257","B07F39QPKK","Ducati By Imetec Kit Regolabarba GK 608 Warm Up 6 in 1 per Viso, Naso e Orecchie, Lame in Acciao Inossidabile ad Alta Resistenza, Rifinitore Verticale di Precisione Incluso","0",NA,"0","0","1672628418.63335",NA
+"258","B07Y8FDSRJ","Ducati by Imetec Tagliacapelli HC 729 U-Turn, Lama XL in Acciaio Inox, 35 Lunghezze di Taglio, Kit per la Pulizia incluso","0",NA,"0","0","1672628440.76308",NA
+"259","B009E7CATE","Imetec Bellissima SensEpil Lux Epilatore a Luce Pulsata, 65.000 Impulsi, Tecnologia HPL, Lampada a Doppia Resa per un Trattamento Veloce, Doppio Sistema di Protezione della Pelle, 5 Livelli Energia","0","179","0","0","1672628463.04946",NA
+"260","B00H9YL8E2","Imetec Bellissima Zero Epilatore a Luce Pulsata, 5 Livelli di Energia Luminosa, fino a 50.000 Impulsi di Luce, Bianco/fucsia","0",NA,"0","0","1672628485.12908",NA
+"261","B007USIKSO","Imetec Bellissima Lampada di Ricambio Epilatore a Luce Pulsata Flash&Go, Superficie Della Lampada (4 Cm²), Filtro UV, Touch Sensor, fino a 1000 Impulsi di Lunga Durata","0",NA,"0","0","1672628507.05895",NA
+"262","B00UH55XKK","Imetec Bellissima Zero Epilatore a Luce Pulsata, Tecnologia Advanced HPL Plus, Doppia Modalità d'Uso, Singolo Impulso o Emissione Continua, 5 Livelli di Energia Luminosa, fino a 150.000 Impulsi","0",NA,"0","0","1672628529.07084",NA
+"263","B015O6A65I","Imetec Bellissima Flash&Go Fast Epilatore a Luce Pulsata, Tecnologia Advanced HPL Plus, Doppio Sistema Protezione della Pelle e Touch Sensor, 5 Livelli Di Energia Luminosa, fino a 200.000 Impulsi","0",NA,"0","0","1672628551.02335",NA
+"264","B015O6J85C","Imetec Bellissima Zero Ultra Fast Epilatore a Luce Pulsata, Fast HPL Plus Technology, Doppio Sistema di Protezione della Pelle e Touch Sensor, 5 Livelli Di Energia Luminosa, fino a 300000 Impulsi","0",NA,"0","0","1672628573.08671",NA
+"265","B009E7AKA0","Imetec Bellissima Flash&Go Lampada di Precisione","0",NA,"0","0","1672628595.2505",NA
+"266","B01M1BX2RL","Imetec Bellissima Zero Pro Dual Epilatore a Luce Pulsata Tecnologia HPL&Galavnic, Doppio Sistema di Protezione della Pelle,5 Livelli di Energia Luminosa, Lampada Quartz,fino a 400.000 Impulsi di Luce","0","276.22","0","0","1672628617.40738",NA
+"267","B01M0149BP","Imetec Bellissima Lampada di Ricambio Lunga Durata per Epilatore a Luce Pulsata Flash&Go, 100.000 Flash","0",NA,"0","0","1672628639.30861",NA
+"268","B0728PHKBL","Imetec Bellissima Flash&Go Pro Epilatore a Luce Pulsata per la Riduzione Permanente dei Peli Superflui di Viso e Corpo, 350.000 Impulsi, Utilizzabile Anche su Pelle Abbronzata a Livelli 1 e 2","0",NA,"0","0","1672628661.43932",NA
+"269","B007M906CE","Imetec Bellissima ET1 200 Epilatore Meccanico, Doppia Testina, Funzione Waterproof, 90 Minuti di Autonomia","0","79.14","0","0","1672628683.59981",NA
+"270","B075RGNCZQ","Bellissima Imetec Comfort Lady Rasoio Elettrico per Donna, Wet&Dry, Lame Arrotondate e Oscillanti","0","34.99","0","0","1672628705.86131",NA
+"271","B078LJX5GY","Imetec Bellissima Zero Pro Compact Epilatore a Luce Pulsata per la Riduzione Permanente dei Peli Superflui di Viso e Corpo, 300.000 Impulsi, Utilizzabile anche su Pelle Abbronzata","0",NA,"0","0","1672628728.46857",NA
+"272","B07P8VM7P7","Bellissima Imetec Flash&Go Lampada di Ricambio per Epilatore a Luce Pulsata, Superficie della Lampada 4 cm², Filtro UV, Fino a 5000 Flash","0",NA,"0","0","1672628751.09447",NA
+"273","B00JZOO2UG","Imetec Intellisense Plaid Riscaldabile Singolo, Termocoperta con Tecnologia Intellisense, Morbida Microfibra Bicolore Reversibile, Lavabile in Lavatrice, 150 x 90 cm","0","57.98","0","0","1672628773.49427",NA
+"274","B0056BY2Q6",NA,"0",NA,"0","0","1672628793.48233",NA
+"275","B005TVOC3G","Imetec Softly Scaldaletto, 50% Lana, Matrimoniale","0",NA,"0","0","1672628815.85396",NA
+"276","B00563GAPA","Imetec 6018C Scaldasonno Premium, 100% Lana e Merino, Scaldaletto Matrimoniale","0","189","0","0","1672628837.79006",NA
+"277","B0056C02MI","Imetec Scaldasonno matrimoniale 150x160 cm, 50% Lana e merino, 2 temperature, Dispositivo sicurezza electro block, Made in italy","0","125.53","0","0","1672628860.09476",NA
+"278","B00563PPGA","Imetec 6012D Scaldasonno Premium, Tessuto Trapuntato, Scaldaletto Matrimoniale","0",NA,"0","0","1672628882.18188",NA
+"279","B005658E1Q","Imetec 6007C Scaldasonno Premium, 100% Lana e Merino, Scaldaletto Singolo","0",NA,"0","0","1672628904.09214",NA
+"280","B0056BZZDA","Imetec Scaldasonno Singolo 150X80 Cm, Basso Consumo, 50% Lana E Merino, 2 Temperature, Dispositivo Sicurezza Electro Block, Made In Italy, ‎5 x 12.5 x 40.5 cm; 1.3 Kg","0","79.99","0","0","1672628926.41967",NA
+"281","B0056BZZAI","Imetec 6001D Scaldasonno Premium, Tessuto Trapuntato, Scaldaletto Singolo","0","64.9","0","0","1672628948.28555",NA
+"282","B00M975Z5W","Imetec 16176A Scaldasonno Sensitive Matrimoniale, si Adatta ai Cambi di Temperatura, Morbido Peluche, Coprimaterasso Maxi 190 x 160, Electro Block, 6 Temperature, Timer, Risparmio Energetico, Lavabile","0","249.9","0","0","1672628970.39421",NA
+"283","B008OFBLYC","Imetec Relaxy Intellisense CHP 01 Termoforo Cervicale, Comando Digitale con 5 Temperature con Riscaldamento Rapido, Tessuto in Microfibra Anallergico, Lavabile, Dimensioni 42 x 38 cm","0",NA,"0","0","1672628992.75769",NA
+"284","B008OFBLR4","Almohadilla Termica Imetec Rectang 40X35","0","37.29","0","0","1672629014.95298",NA
+"285","B078RL1X78","Imetec Bw03 Boule Elettrica Cordless, Tecnologia Ceramica, Riscaldamento Ultrarapido, Termostato Di Sicurezza, Spia Di Ricarica, Bianco, ‎27.6 x 19.7 x 6.2 cm; 1.33 Kg","0","42.99","0","0","1672629037.43707",NA
+"286","B01LXFEQXU","Imetec 16402 Scaldasonno Express 1 Piazza e Mezza, Tecnologia Express Rapido Riscaldamento, 100% Lana e Merino, Electro Block di Sicurezza, Lavabile, 3 Temperature, Risparmio Energetico, Made in Italy","0","136.12","0","0","1672629059.57098",NA
+"287","B01LZDKK2F","Imetec Sensitive Maxi Scaldasonno Matrimoniale, si Adatta ai Cambi di Temperatura, Tessuto Anallergico, Electro Block, 6 Temperature, 190 x 160 cm","0","288","0","0","1672629082.20858",NA
+"288","B01M109MOV","Imetec Sensitive Maxi Scaldasonno Matrimoniale, si Adatta ai Cambi di Temperatura, Tessuto Anallergico, Electro Block, 6 Temperature, 190 x 160 cm","0","288","0","0","1672629104.32932",NA
+"289","B01L969ZHW",NA,"0",NA,"0","0","1672629124.29531",NA
+"290","B01L969YMS","Imetec 16284 Scaldasonno Express Singolo, Tecnologia Express Rapido Riscaldamento, 100% Lana e Merino, Electro Block di Sicurezza, Lavabile, 3 Temperature, Risparmio Energetico, Made in Italy","0","109","0","0","1672629146.47436",NA
+"291","B01M1Y6Y6K","Imetec 16283 Scaldasonno Express Matrimoniale, Tecnologia Express Rapido Riscaldamento, 50% Lana e Merino, Electro Block di Sicurezza, Lavabile, 3 Temperature, Risparmio Energetico, Made in Italy","0","159.9","0","0","1672629168.49567",NA
+"292","B01LZ1UUI6",NA,"0",NA,"0","0","1672629188.47739",NA
+"293","B01L969XYC","Imetec 16281 Scaldasonno Express Matrimoniale, Tecnologia Express Rapido Riscaldamento, Tessuto Trapuntato, Electro Block di Sicurezza, Lavabile, 3 Temperature, Risparmio Energetico, Made in Italy","0","154.7","0","0","1672629210.8684",NA
+"294","B01L96A09E",NA,"0",NA,"0","0","1672629230.92187",NA
+"295","B01CNW2500","Imetec Relaxy Intellisense Remote Plaid Riscaldabile, Coperta Elettrica con Bluetooth, 180x140 cm","0","90.39","0","0","1672629253.33187",NA
+"296","B01LZ1YB12","Imetec Relaxy Intellisense Plaid Riscaldabile, Coperta Elettrica con Tasca per Mani, 150x70 cm","0",NA,"0","0","1672629275.54387",NA
+"297","B01CNW257I","Imetec 16242 Scaldasonno Sensitive Singolo 150x80 cm, Tecnologia Remote, Tessuto Trapuntato, 6 Temperature, Timer di Autospegnimento, Lavabile in Lavatrice, Electro Block di Sicurezza","0","89.9","0","0","1672629297.48652",NA
+"298","B01CNW24R4","Imetec 16241 Scaldasonno Sensitive Matrimoniale 150x160 cm, Tecnologia Remote, Tessuto Trapuntato, 6 Temperature, Timer di Autospegnimento, Lavabile in Lavatrice, Electro Block di Sicurezza","0",NA,"0","0","1672629319.53765",NA
+"299","B017X6MUVU","SGR Scaldaletto, Peluche 50% Lana, Matrimoniale","0","89.9","0","0","1672629341.771",NA
+"300","B017LHJZVY","SGR Scaldaletto, Peluche 50% Lana, Singolo","0",NA,"0","0","1672629363.96737",NA
+"301","B00M975Z7K","Imetec 16176A Scaldasonno Sensitive Matrimoniale, si Adatta ai Cambi di Temperatura, Morbido Peluche, Coprimaterasso Maxi 190 x 160, Electro Block, 6 Temperature, Timer, Risparmio Energetico, Lavabile","0",NA,"0","0","1672629386.23288",NA
+"302","B00NGKX45Y",NA,"0",NA,"0","0","1672629406.27495",NA
+"303","B00NGKX6I4",NA,"0",NA,"0","0","1672629426.52853",NA
+"304","B00KG1ZT1I","Imetec Intellisense Plaid Riscaldabile Matrimoniale 120 x 160 cm, Termocoperta con Tecnologia Intellisense, Morbida Ecopelliccia, Lavabile in Lavatrice","0",NA,"0","0","1672629449.13583",NA
+"305","B00FGRPS6I","Imetec Intellisense CHP 03 Termoforo Cervicale e Spalle Extralarge, Comando digitale con 5 temperature, Tessuto in microfibra anallergico, Lavabile, 60 x 58 cm","0","57.99","0","0","1672629471.43394",NA
+"306","B00E4KJ8HI",NA,"0",NA,"0","0","1672629491.42061",NA
+"307","B008OFBMW8",NA,"0",NA,"0","0","1672629511.69357",NA
+"308","B008OFBMI2","Imetec 16036 Scaldasonno Sensitive, 100% Lana e Merino, Scaldaletto Singolo","0",NA,"0","0","1672629533.83627",NA
+"309","B008OFBM9Q",NA,"0",NA,"0","0","1672629553.89072",NA
+"310","B00791DPI2",NA,"0",NA,"0","0","1672629574.04605",NA
+"311","B005TVN99Y","Imetec, Scaldaletto Softly, 50% lana, comando a 2 temperature, per letto singolo","0",NA,"0","0","1672629596.29294",NA
+"312","B07Y8GR1WS","Imetec Scaldasonno Adapto singolo 150 x 80 cm, Basso consumo, Tecnologia brevettata, Riscaldamento rapido, Temperatura personalizzata, 100% cotone, Made in italy, Comando con 6 temperature","0","89.9","0","0","1672629618.6712",NA
+"313","B07Y8GH4K8","Imetec Scaldasonno Adapto matrimoniale 150 x 160 cm, Basso consumo, Tecnologia brevettata, Riscaldamento rapido, Temperatura personalizzata, 100% cotone, Made in italy, 2 comandi con 6 temperature","0","154.7","0","0","1672629641.09216",NA
+"314","B07Y8FDGDQ",NA,"0",NA,"0","0","1672629661.10064",NA
+"315","B07Y8GQMP5","Imetec Scaldasonno Adapto singolo 150 x 80 cm, Basso consumo, Riscaldamento rapido, Temperatura personalizzata, 100% lana e merino, Made in italy, Comando con 6 temperature","0","109","0","0","1672629684.16166",NA
+"316","B07Y8GCMLG",NA,"0",NA,"0","0","1672629704.20209",NA
+"317","B07Y8FZ6GJ",NA,"0",NA,"0","0","1672629724.47067",NA
+"318","B07Y8GQVND","Imetec Scaldasonno Adapto matrimoniale, Basso consumo, Riscaldamento rapido, Temperatura personalizzata, Tessuto trapuntato anallergico, Made in italy, 2 comandi con 6 temperature, 150 x 160 cm","0","159.9","0","0","1672629747.16363",NA
+"319","B07Y8G9L1M","Imetec Adapto Velvet Tartan plaid riscaldabile 160x120 cm tessuto vellutato e setoso, Tecnologia Adapto, & Scaldasonno Adapto Singolo 150 x 80 cm, Riscaldamento Rapido","0",NA,"0","0","1672629769.50817",NA
+"320","B00KKI8V58","Imetec Termoforo Cervicale, Comando Digitale con 5 Temperature, 42 x 38 cm","0",NA,"0","0","1672629791.52735",NA
+"321","B00NOM9MK0","Imetec Relaxy Intellisense Hp-03 Termoforo Renale, Comando Digitale Con 5 Temperature, Beige, 40 x 25 x 25 cm","0",NA,"0","0","1672629813.6134",NA
+"322","B00H2FTS90","Imetec Relaxy Intellisense Scalda-Materassi, Fibra Sintetica, Marrone, Matrimoniale","0","154.7","0","0","1672629835.90042",NA
+"323","B00H2FTN9U","Imetec Relaxy Intellisense Scaldaletto Matrimoniale, Comando digitale con 6 temperature, Tessuto in microfibra anallergico, Lavabile, 150 x 137 cm","0",NA,"0","0","1672629858.16466",NA
+"324","B01DU6GJLO","Imetec Relaxy Intellisense HP 04 Termoforo multifunzione, Comando digitale con 5 temperature, Tessuto in microfibra anallergico, Lavabile, 40 x 32 cm","0",NA,"0","0","1672629880.16522",NA
+"325","B00F0HK0XA",NA,"0",NA,"0","0","1672629900.22205",NA
+"326","B00BTVSROU","Imetec HP-01, Termoforo Multifunzione, Comando Digitale con 5 Temperature, Marrone/Rosso, 40 x 35 cm","0","37.29","0","0","1672629922.76902",NA
+"327","B00GAX0F1U","Imetec HP-01, Termoforo Multifunzione, Comando Digitale con 5 Temperature, Marrone/Rosso, 40 x 35 cm","0","37.29","0","0","1672629944.93614",NA
+"328","B00GOWKD82",NA,"0",NA,"0","0","1672629964.92097",NA
+"329","B00A9269R2","Imetec Scaldasonno singolo, 150 x 80 cm, Comando 2 temperature, Tessuto trapuntato, Lavabile a mano e in lavatrice a 40°C","0","64.9","0","0","1672629987.50783",NA
+"330","B00K6MR6JK","Imetec Scaldasonno matrimoniale, 150 x 140 cm, 2 comandi con 2 temperature, Tessuto trapuntato, Lavabile a mano e in lavatrice a 40°C","0","94.99","0","0","1672630009.87166",NA
+"331","B00BTVSK8I","Imetec Relaxy FW 01 Intellisense Scaldapiedi, Fibra Sintetica, Marrone/Rosso, Ad Una Piazza","0","35.65","0","0","1672630032.00837",NA
+"332","B004ASNGB8","Imetec SM2-200 Sensuij Sedile Massaggiante","0","129.9","0","0","1672630054.26276",NA
+"333","B004ASNGBI","Imetec SM3-200 Sensuij Sedile Massaggiante","0",NA,"0","0","1672630075.77168",NA
+"334","B004ASNGEA","Imetec SM1-200 Dreamland Sensuij Seduta Massaggiante, Riscaldante","0",NA,"0","0","1672630097.444",NA
+"335","B00FZN1H4U",NA,"0",NA,"0","0","1672630117.68736",NA
+"336","B00FMUJMBG","Imetec MP3-200 Idromassaggiatore Plantare","0",NA,"0","0","1672630139.9383",NA
+"337","B00AKFUBLI","Imetec BP2 200 Provapressione da Braccio","0",NA,"0","0","1672630162.0611",NA
+"338","B00BBUWQR8","Imetec MED BP1 100 Provapressione da Polso","0","32.99","0","0","1672630184.30679",NA
+"339","B00AZIV8HG","Imetec MED BP1 200 Provapressione da Braccio, bianco","0","29.99","0","0","1672630206.26241",NA
+"340","B00G3NJVLC","Imetec Med AR 400 Aerosol, 230 V, Bianco","0",NA,"0","0","1672630228.72091",NA
+"341","B00AKFUB9K","Imetec MED BP2 100 Provapressione da Polso a Lettura Agevolata","0",NA,"0","0","1672630250.68037",NA
+"342","B00AKFUC9E","Imetec MED TM1 100 Termometro a Infrarossi","0","53.47","0","0","1672630272.67406",NA
+"343","B00N1TYH88",NA,"0",NA,"0","0","1672630292.65665",NA
+"344","B00FZUMBCK",NA,"0",NA,"0","0","1672630312.89036",NA
+"345","B075BMSMRF","Imetec Med AR1000 Aerosol a Pistone con Mascherina Pediatrica a Grandezza Variabile e Snodo per Somministrare i Farmaci in Posizione Sdraiata, Completo di Accessori, Dispositivo Medico CE0434","0",NA,"0","0","1672630335.21454",NA
+"346","B00KIDANX8",NA,"0",NA,"0","0","1672630355.29686",NA
+"347","B00KMU8XFC","Imetec BF4 500 Pesapersone Elettronica","0","33.12","0","0","1672630377.65474",NA
+"348","B00KIRP6LS","Imetec BS4 500 Pesapersone Elettronica, Display LCD, Indicatore Batteria, Verde","0","22.9","0","0","1672630399.87875",NA
+"349","B00KMU8XCU","Imetec BM3 300 Bilancia Pesapersone Elettronica, Calcola l'indice di massa corporea, beige, lcd","0",NA,"0","0","1672630422.05763",NA
+"350","B0050IIHAM","Imetec Medical Pro, Pesapersone Meccanica, Ampio Quadrante ad Alta Visibilità, Pedana Antiscivolo, Portata Max 180 Kg, Divisione 1 kg, Scocca Metallo Cromato","0","56.2","0","0","1672630444.68644",NA
+"351","B0050IIE5A","Imetec ECO SB1 100 Pesapersone Elettronica","0",NA,"0","0","1672630467.17255",NA
+"352","B0052WYN1S",NA,"0",NA,"0","0","1672630487.17088",NA
+"353","B0052WYO08","Imetec BF2 200 Pesapersone Elettronica","0",NA,"0","0","1672630509.49282",NA
+"354","B0063RMI6S",NA,"0",NA,"0","0","1672630529.44549",NA
+"355","B07VGH4Z81","Imetec Body Analizer ES7 400 Bilancia Pesapersone Diagnostica, Misura Acqua Corporea, Massa Muscolare e Grassa","0","22.79","0","0","1672630551.79507",NA
+"356","B07VC16GW8","Imetec Compact ES1 100 Bilancia pesapersone elettronica compatta, Design ultrasottile, Ampio LCD display, Portata Max 150 kg","0","15.99","0","0","1672630574.13458",NA
+"357","B07W4JVN8S","Imetec Monitoring ES9 300 bilancia pesapersone elettronica, Monitoraggio trend grafico peso, 4 utenti, fino a 180 kg, Lcd display, Vetro temperato","0","34.9","0","0","1672630596.61589",NA
+"358","B07WBZC85N","Imetec Precision ES13 200 Bilancia pesapersone elettronica, rivela anche le minime variazioni di peso, fino a 180 Kg, LCD Display, vetro temperato, batterie incluse","0","26.99","0","0","1672630618.99759",NA
+"359","B00LJF1UZY","Imetec Piuma Force Scopa Elettrica, Senza Sacco, Classe A","0",NA,"0","0","1672630641.23409",NA
+"360","B00LJF1U22","Imetec Piuma Scopa Elettrica, Senza Sacco, Classe A","0",NA,"0","0","1672630663.39533",NA
+"361","B00NAVVX6Q","Imetec Start&Stop Scopa Elettrica, senza Sacco, Tecnologia Ciclonica, Accensione e Spegnimento Automatici, Tecnologia a Rismarmio Energetico, Regolazione Elettronica della Potenza","0","97.3","0","0","1672630685.43594",NA
+"362","B015WNP748","Imetec Piuma Scopa Elettrica, Tecnologia con Sacco, Classe A","0","135.49","0","0","1672630707.47766",NA
+"363","B00NAVVZ3M","Imetec SuperPlate Compact Lucidatrice Compatta, 4 Set di Spazzole, Calotta Bassa, Manico Telescopico Allungabile, Lucida il Parquet","0",NA,"0","0","1672630729.51808",NA
+"364","B00NAQ0VSM","Imetec Eco Extreme Silence Aspirapolvere","0",NA,"0","0","1672630751.83277",NA
+"365","B00MW2WKDE","Imetec Max Power Scopa Elettrica, Senza Sacco, Classe A","0",NA,"0","0","1672630773.89472",NA
+"366","B01BGRZXKM","Imetec Master Vepor Detrgent Plus SM04, Scopa Lavpavimenti a Vepore, Funzionaento più Detergente, Vapore a 120°C, 12 Accessori, Generatore di Vepore Poratile, 3 Panni in Microfibra","0","119.99","0","0","1672630795.9802",NA
+"367","B012DHYAOO",NA,"0",NA,"0","0","1672630816.05089",NA
+"368","B015OEJTYY","Imetec Max Power Animal Care Scopa Elettrica, senza Sacco, Avvolgifilo Automatico, Turbospazzola Animal Care, Regolazione Elettronica della Potenza","0","284.27","0","0","1672630838.22967",NA
+"369","B00OQ38BNU","Imetec Duetta Cordless 2 in 1 Scopa Elettrica, Ricaricabile, 18 V, senza Fili, Leggera, Tecnologia Ciclonica, Miniaspirapolvere Incorporato, Autonomia 30'","0",NA,"0","0","1672630860.28679",NA
+"370","B015WNP752","Imetec Piuma Force Cordless Scopa Elettrica Senza Fili, 32 V, Leggera e Maneggevole, Tecnologia Ciclonica, Spazzola Multisuperficie","0",NA,"0","0","1672630882.53171",NA
+"371","B015WNP79I","Imetec Eco Extreme Pro Aspirapolvere","0",NA,"0","0","1672630904.8455",NA
+"372","B00NAVW2DE","Imetec Eco Extreme Silence Aspirapolvere","0",NA,"0","0","1672630926.73746",NA
+"373","B00J8LWXH0","Imetec Ecovacs Winbot W710 Robot per Pulizia Automatica di Vetri e Finestre","0",NA,"0","0","1672630948.86177",NA
+"374","B00J9A8RNE","Imetec 8137 Master Vapor SM01 Pulitore a Vapore + 3 panni in microfibra di ricambio","0",NA,"0","0","1672630970.88369",NA
+"375","B01BGRZXIY",NA,"0",NA,"0","0","1672630990.92057",NA
+"376","B0158R6S5K","Imetec Master Plus SM02 Scopa Lavapavimenti 120°C, 10 Accessori, Generatore di Portatile, Pronto in Pochi Secondi, 2 Panni in Microfibra","0","119.99","0","0","1672631013.30502",NA
+"377","B00NQ4LDY4",NA,"0",NA,"0","0","1672631033.2949",NA
+"378","B01LY2TWKN","Imetec Max Power Scopa Elettrica, senza Sacco, Tecnologia Ciclonica, Avvolgifilo Automatico, Tecnologia a Rismarmio Energetico, Regolazione Elettronica della Potenza","0",NA,"0","0","1672631055.62619",NA
+"379","B01M19HDRM","Imetec Eco Extreme Animal Care Aspirapolvere","0",NA,"0","0","1672631077.7741",NA
+"380","B01LZLVGIB","Imetec Piuma Cordless Scopa Elettrica, Ricaricabile, 18.5 V, senza Fili, Leggera, Tecnologia Ciclonica, Autonomia 35', Spazzola Multisuperficie","0",NA,"0","0","1672631099.85312",NA
+"381","B00J911OZQ","Imetec Ecovacs Deebot CR-110 Robot Aspirapolvere sottile","0","236.02","0","0","1672631122.28883",NA
+"382","B015WNPB08","Imetec Piuma Force Cordless Scopa Elettrica Senza Fili, 25 V, Leggera e Maneggevole, Tecnologia Ciclonica, Spazzola Multisuperficie","0",NA,"0","0","1672631144.381",NA
+"383","B074TNT7Y7",NA,"0",NA,"0","0","1672631164.32998",NA
+"384","B074TMX9J3","Imetec 8634 Piuma+ C2-100 Scopa Elettrica Senza Sacco, Classe A+, Leggera, Riduzione del Consumo Energetico, 76 Decibel, Plastica, Bianco/Verde","0",NA,"0","0","1672631187.01978",NA
+"385","B074TNW3L4","Imetec Piuma+ C2-200 Scopa Elettrica, Aspirapolvere con Tecnologia Ciclonica Senza Sacco, Regolazione Elettronica della Potenza, Leggera 3 kg, Filtro Hepa Ipoallergenico, Bianco/Viola","0",NA,"0","0","1672631209.22959",NA
+"386","B074TNT7YD","Imetec EcoExtreme PRO C2-200 Aspirapolvere Senza Sacco, Turbospazzola Animal Care, Tecnologia ciclonica senza sacchetto, Tecnologia a risparmio energetico, Spazzola parquet","0",NA,"0","0","1672631231.41959",NA
+"387","B074TMNTQK","Imetec 8632 Ecoextreme PRO++ C2-100 Aspirapolvere Senza Sacco, Classe Energetica A++ con Spazzola Parquet","0","178.99","0","0","1672631253.57824",NA
+"388","B074TMJN25","Imetec 8078 Duetta++ C5-300 Scopa Elettrica 2 in 1 con Miniaspirapolvere Integrato e Tecnologia Ciclonica","0",NA,"0","0","1672631275.66639",NA
+"389","B076G1RLQX","Imetec 8074 Scopa Elettrica Senza Filo-Turbospazzola e Autonomia, Grigio","0",NA,"0","0","1672631297.56761",NA
+"390","B075ZRP3CS","Imetec Piuma Force++ C2-400 Scopa Elettrica Senza Sacco, Leggera, Tecnologia Ciclonica, Filtro Hepa, Spazzola Parquet, Regolazione Elettronica della Potenza","0",NA,"0","0","1672631319.63457",NA
+"391","B075ZPXS6V","TP-Link 8180 Imetec Piuma Force++ C2-300 Scopa Elettrica Senza Sacco, Leggera, Classe A++, Tecnologia Ciclonica, Filtro Hepa Ipoallergenico, Bianco/Arancione","0",NA,"0","0","1672631341.64312",NA
+"392","B077GZ81KQ","Imetec 3X Pro Aspirapolvere Senza Filo e Sacco, Motore Digitale, a Stelo, Miniaspirapolvere, Autonomia Fino A 35’, Turbospazzola Automatica, Animal Care, 7 Accessori","0",NA,"0","0","1672631363.6926",NA
+"393","B07J3SF9X8","Imetec Extreme Filtration + 8175, Aspirapolvere Senza Sacco, Compatto, Doppio Filtro Hepa Ipoallergenico, Spazzola per Parquet, Tecnologia Ciclonica, Potenza Regolabile","0",NA,"0","0","1672631385.7183",NA
+"394","B07W5FS4ZL","Imetec Piuma Extreme++ Sc3-100 Aspirapolvere con Tecnologia Ciclonica senza Sacco, Regolazione Elettronica della Potenza, Leggera 4 Kg, Doppio Filtro Hepa Ipoallergenico, Spazzola Multisuperficie","0","97.3","0","0","1672631408.10182",NA
+"395","B07W49FGYS",NA,"0",NA,"0","0","1672631428.05282",NA
+"396","B0059GLZUY","Imetec Iron Max Eco Professional 2700 Ferro da Stiro con Caldaia in Pressione, Piastra in Acciaio Inossiadabile, Generatore di Vapore, Manometro per il Controllo della Pressione","0",NA,"0","0","1672631450.49719",NA
+"397","B0059GM0GW","Imetec Iron Max Eco Professional 2500 Ferro da Stiro con Caldaia in Pressione, Piastra in Acciaio Inossiadabile, Generatore di Vapore","0",NA,"0","0","1672631472.29968",NA
+"398","B00ABL17A0","Imetec Levapelucchi Elettrico, Testina in Acciaio Inossidabile, Funzionamento a Batterie","0",NA,"0","0","1672631494.34247",NA
+"399","B00FGRYBT8","Imetec Intellivapor Eco Ferro da Stiro con Caldaia, Tecnologia Intellivapor, Pressione Vapore 5 BAR, Piastra Acciaio Inox, Tecnologia a Risparmio Energetico","0",NA,"0","0","1672631516.29571",NA
+"400","B009E3VNAK","Imetec NoStop Eco Professional Ferro con Caldaia in Pressione, Piastra in Acciaio Inossidabile e Generatore di Vapore da 5 bar, Tecnologia a Risparmio Energetico, Tecnologia NoStop","0",NA,"0","0","1672631538.22997",NA
+"401","B00FGRYW7O","Imetec Titanox Eco K112 Ferro da Stiro a Vapore, Piastra in Acciaio Inox","0",NA,"0","0","1672631560.45277",NA
+"402","B00GLSDCS2","Imetec Nuvola Ferro da Stiro da Viaggio a Vapore, Piastra in Acciaio Inossidabile da 1000 W, Custodia da Viaggio, Doppio Voltaggio","0","23.99","0","0","1672631582.91699",NA
+"403","B005U1WNWC","Imetec Zerocalc Eco Professional 2400 Ferro da Stiro a Vapore, Piastra in Acciaio Inox","0",NA,"0","0","1672631604.74324",NA
+"404","B00O3X8VZG","Imetec Titanox Eco K116 Ferro da Stiro a Vapore, Piastra in Acciaio Inox","0","27","0","0","1672631626.97966",NA
+"405","B00TDNGVX0","Imetec Titanox Eco K114 Ferro da Stiro a Vapore, Piastra in Acciaio Inox","0",NA,"0","0","1672631649.13203",NA
+"406","B015WNPAYK","Imetec Intellivapor Prestige Ferro da Stiro Generatore di Vapore, Tecnologia Intellivapor, 4.5 BAR Pump, Colpo Vapore 200 G, Tecnologia a Risparmio Energetico, Tecnologia NoStop","0",NA,"0","0","1672631671.39091",NA
+"407","B01BGRZY10","Imetec Intellivapor Professional Ferro da Stiro, Generatore di Vapore, Tecnologia Intellivapor, 4.8 bar Pressione alla Pompa, Colpo Vapore 230 g, Tecnologia a Risparmio Energetico, Tecnologia NoStop","0","188.99","0","0","1672631693.61837",NA
+"408","B011DHJIRE","Imetec Zerocalc Eco K4 2400 Ferro da Stiro, Bianco","0","27","0","0","1672631715.60015",NA
+"409","B0050IJ3V4",NA,"0",NA,"0","0","1672631735.5837",NA
+"410","B0050IJ8J6","Imetec Eco Compact Sistema Stirante","0",NA,"0","0","1672631757.74836",NA
+"411","B01EYQUL2M",NA,"0",NA,"0","0","1672631777.79949",NA
+"412","B01EO697BI","Imetec Titanox K109 Ferro Da Stiro A Vapore, Piastra In Acciaio Inossidabile Multiforo Da 2000 W, Bianco Blu","0",NA,"0","0","1672631800.23323",NA
+"413","B01LZXN3WK","Imetec Intellivapor Expert 2700 Ferro con Caldaia ad Alta pressione, Tecnologia a Risparmio Energetico, Piastra e Caldaia in Acciaio Inossidabile, Manometro per il Controllo della Pressione","0",NA,"0","0","1672631822.19433",NA
+"414","B01LX03UPH","Imetec Intellivapor Expert IM2500 Ferro con Caldaia ad Alta pressione, Tecnologia Intellivapor, Tecnologia a Risparmio Energetico, Piastra e Caldaia in Acciaio Inossidabile","0",NA,"0","0","1672631844.34891",NA
+"415","B01LYMRVA3","Imetec Zerocalc Pro 2300 Ferro da Stiro a Vapore ad Alte Prestazioni, Piastra in Acciaio Inossidabile da 2300 W, Tecnologia Anticalcare, Tecnologia a Risparmio Energetico","0","30","0","0","1672631866.23545",NA
+"416","B01LZA1IHE","Imetec Intellivapor K1 Ferro da Stiro a Vapore, Tecnologia Intellivapor, Piastra in Acciaio Inossidabile da 2300 W, Tecnologia a Risparmio Energetico","0","30","0","0","1672631888.29639",NA
+"417","B01M09BNCN",NA,"0",NA,"0","0","1672631908.29517",NA
+"418","B01LY802Z9","Imetec Intellivapor K5 Ferro da Stiro a Vapore, Tecnologia Intellivapor, Piastra in Acciaio Inossidabile da 2400 W, Tecnologia a Risparmio Energetico","0","30","0","0","1672631930.43108",NA
+"419","B01M0KZ2PI","Imetec Zerocalc Pro 2200 Ferro da Stiro a Vapore ad Alte Prestazioni, Piastra in Acciaio Inossidabile da 2200 W, Tecnologia Anticalcare, Tecnologia a Risparmio Energetico","0",NA,"0","0","1672631952.49472",NA
+"420","B00FGRZ3PY","Imetec Zerocalc Eco K3 2300 Ferro da Stiro a Vapore, Piastra in Acciaio Inox","0","27","0","0","1672631974.51383",NA
+"421","B00NU25TGA","Imetec No-Stop Eco Prestige Sistema Stirante, Ferro da Stiro con Piastra in Acciaio Inox e Generatore di Vapore","0","89","0","0","1672631996.52631",NA
+"422","B07CKY9SNZ","Imetec Zerocalc Z1 2500 Ferro da Stiro, Tecnologia Anticalcare, Piastra Inox 2200 W, Colpo Vapore 120 G","0","23.99","0","0","1672632019.1505",NA
+"423","B07CKRCMB7","Imetec Zerocalc Z3 3500 ferro da stiro, Tecnologia anticalcare, Piastra inox 2400 w, Colpo vapore 150 g","0","27","0","0","1672632041.51473",NA
+"424","B01D401T6Q","Lunghezza cavo (m) 2 Eco Compact Ferro da Stiro Compatto, Bianco","0",NA,"0","0","1672632063.58121",NA
+"425","B07MZGRDJ4","Imetec Zerocalc Z3 3700 Ferro da Stiro, Tecnologia Anticalcare, Piastra Ceramica ad Alta Scorrevolezza, 2400W, Colpo Vapore 160 G, 0,3 litri, Dispositivo Antigoccia Tecnologia a Risparmio Energetico","0","42.99","0","0","1672632085.96955",NA
+"426","B07P35DTPJ",NA,"0",NA,"0","0","1672632105.91961",NA
+"427","B07NYRRF1Y","Imetec ZeroCalc Z3 3900 Ferro da Stiro a Vapore, Tecnologia Anticalcare, Tecnologia Intellivapor (temperatura unica ideale per tutti i tessuti), Piastra Ceramica, 2400 W, Colpo Vapore 170 g","0","40.76","0","0","1672632128.55785",NA
+"428","B07PPC54RD","Imetec Zerocalc Z1 2800 Ferro da Stiro con Tecnologia Anticalcare, Piastra Ceramica ad Alta Scorrevolezza, Tecnologia a Risparmio Energetico, 2200 W, Colpo Vapore 130 G","0","34.99","0","0","1672632151.00374",NA
+"429","B07QZFLKRS","Imetec Zerocalc Pro Ps2 2200 Ferro da Stiro Generatore di Vapore, Tecnologia Anticalcare, Fino a 5.6 Bar Pump, Colpo Vapore 240 G, Piastra in Acciaio Inox, 3 Filtri con Ioni D’Argento","0","119.99","0","0","1672632173.4873",NA
+"430","B07S61V42S","Imetec ZeroCalc KF1 100 Kit 3 filtri anticalcare per Ferri da Stiro Imetec ZeroCalc Pro Ceramic PS2 2400, PS2 2000, PS2 2200, Intellivapor PS3 3000, Imetec Onda, Ricambi Originali","0","22.99","0","0","1672632195.62208",NA
+"431","B00MHFT4DK","Imetec Titanox Eco K107 Ferro da stiro a vapore, Tecnologia a risparmio energetico, 2000 Watt, Piastra in acciaio inox autopulente, Vapore Regolabile, Getto di vapore 40 g, lunghezza cavo 2 mt","0",NA,"0","0","1672632217.68135",NA
+"432","B09SDHHKJZ","Imetec Intellifast, ferro da stiro a vapore, Tecnologia Intelli System, Impostazione automatica della temperatura, Piastra Ceramic Diamond, Protezione anticalcare, 2400 W, Colpo Vapore 200 g","0","54.99","0","0","1672632240.076",NA
+"433","B004ASNGM2","Imetec Living Air HU-200 Umidificatore, Autonomia fino a 12 Ore, Emissione Vapore Regolabile, Dispositivo Antiapertura di Sicurezza, Vaschetta Porta Fragranze","0",NA,"0","0","1672632262.05868",NA
+"434","B0050IGWXG",NA,"0",NA,"0","0","1672632282.04496",NA
+"435","B008HR0UG2","Imetec 8428 ricambi Piuma Excellent, Carta","0","13.4","0","0","1672632304.47569",NA
+"436","B008HR7LB4","Imetec 8004 Kit Ricambi, 10 Sacchetti, 2 Filtri Aria, 1 Filtro Motore per Scopa Elettrica Imetec Piuma","0",NA,"0","0","1672632326.53163",NA
+"437","B009E7AKTQ","Imetec 8505 Kit Ricambi, 10 Sacchetti e 1 Filtro Motore per Scopa Elettrica Imetec ECO E6","0","13.4","0","0","1672632348.45259",NA
+"438","B009K23650","Imetec 8506 Kit Sacchetti e Filtro, per Aspirapolvere Eco Allergy","0",NA,"0","0","1672632370.26544",NA
+"439","B01BV0NOOG","Imetec 8064 Kit Ricambi, 2 Panni in Microfibra per Scopa a Vapore Imetec Master Vapor Detergent Plus SM04","0","25.33","0","0","1672632392.59137",NA
+"440","B00YAF2X1K",NA,"0",NA,"0","0","1672632412.5773",NA
+"441","B00PLSNWU6",NA,"0",NA,"0","0","1672632432.79664",NA
+"442","B01BV0NNBK","Imetec 8098 Kit Panni di Ricambio per Scopa a Vapore Master Vapor Plus SM02","0",NA,"0","0","1672632454.88238",NA
+"443","B00KMU8US2","Imetec 8140 Kit Ricambi 3 Panni In Microfibra Per Scopa A Vapore Imetec Master Vapor SM01, ‎Bianco","0","15.4","0","0","1672632477.04039",NA
+"444","B00KMU8XAC","Imetec Winbot W710 Kit Panni di Ricambio per Robot Pulisci Vetri e Finestre","0",NA,"0","0","1672632498.67988",NA
+"445","B01BV0NOQ4","Imetec 8166 Kit Ricambi, 4 Panni in Microfibra Scopa a Vapore Imetec Master Vapor Detergent SM03","0",NA,"0","0","1672632520.62968",NA
+"446","B0158R6RLK","Imetec 8066 Sacchetti e Filtri per Aspirapolvere Silence Eco Extreme","0",NA,"0","0","1672632543.34343",NA
+"447","B00YAF31EI","Imetec 8392 Kit Ricambi, 5 Sacchetti, 1 Filtro Hepa, 1 Filtro Motore per Aspirapolvere Imetec Eco E3","0","19.9","0","0","1672632565.76805",NA
+"448","B00UX6KK0G","Imetec 8621 Kit Ricambi, 5 Sacchetti, 1 Filtro Aria, 1 Filtro Motore per Aspirapolvere Imetec Driver e Imetec Eco E5","0",NA,"0","0","1672632587.74354",NA
+"449","B08J8XH5BH","Bellissima My Pro Imetec Twist & Style GT22 100, Manico per Styler Arricciacapelli per Onde e Ricci, Temperatura Automatica, Riscaldamento Rapido, Orientabile a 90°, Accessori non Inclusi","0","34.99","0","0","1672632610.59323",NA
+"450","B08J8XNFNC","Bellissima My Pro Imetec GT22 110, Accessorio Soft Curls per Styler Arricciacapelli Twist & Style, Ferro Riscaldato da 25 mm, Rivestimento in Ceramica, Temperatura 185°C","0","25.95","0","0","1672632633.12025",NA
+"451","B08J8XCSH4","Bellissima My Pro Imetec GT22 120, Accessorio Sculpted Curls per Styler Arricciacapelli Twist & Style, Ferro Riscaldato da 11 mm, Rivestimento in Ceramica, Temperatura 185°C","0","25.95","0","0","1672632655.4253",NA
+"452","B08J8XCSHB","Bellissima My Pro Imetec GT22 130, Accessorio Loose Waves per Styler Arricciacapelli Twist&Style, Ferro Riscaldato ad Ellisse, Diametro da 26 a 38 mm, Rivestimento Ceramica, Temperatura 190°C","0","24.03","0","0","1672632677.93392",NA
+"453","B08J8XN21F","Bellissima My Pro Imetec GT22 140 Accessorio Glamour Waves per Styler Arricciacapelli Twist&Style, Ferro Riscaldato Forma Conica, Diametro 13/38 mm, Rivestimento in Ceramica, Temperatura 190°C","0","29.99","0","0","1672632700.4195",NA
+"454","B08J8XPY5X","Bellissima Imetec Hydra Sonic Asciugacapelli, Motore Digitale, Ionizzatore a Doppia Azione, 3 Velocità, 3 Temperature Compatto, Leggero, 3 Accessori Aggancio Magnetico, Custodia da Viaggio","0","194","0","0","1672632722.88908",NA
+"455","B08HS77R9B",NA,"0",NA,"0","0","1672632742.9214",NA
+"456","B08HR1VGSR","Imetec Scaldasonno Adapto maxi coprimaterasso singolo 195x90 cm, Basso consumo, Riscaldamento rapido, Temperatura personalizzata, Tessuto anallergico trapuntato, Comando a 6 temperature","0","76.99","0","0","1672632765.62108",NA
+"457","B08HR23S41",NA,"0",NA,"0","0","1672632785.67176",NA
+"458","B08J8Z15M1","Imetec adapto velvet square plaid riscaldabile, Coperta elettrica 150x95 cm tessuto morbido, Basso consumo, Tecnologia adapto, Dispositivo di sicurezza, Rapido riscaldamento, 6 temperature, Lavabile","0","57.98","0","0","1672632808.71747",NA
+"459","B08J8ZLLDT","Imetec Adapto velvet jacquard plaid riscaldabile, Coperta elettrica 140x180 cm tessuto morbido, Basso consumo, Tecnologia adapto, Dispositivo di sicurezza, Rapido riscaldamento, 6 temperature,Lavabile","0","90.39","0","0","1672632831.15679",NA
+"460","B08J8ZH957","Imetec adapto velvet tartan plaid riscaldabile con tasca mani e piedi, Coperta elettrica 150x110 cm, Basso consumo, Tecnologia adapto, Sicuro, Rapido riscaldamento, 6 temperature, Lavabile","0","99","0","0","1672632853.96582",NA
+"461","B08J8XMFQN","Imetec Scaldasonno Adapto maxi coprimaterasso matrimoniale 195 x 165 cm, Basso consumo, Riscaldamento rapido, Temperatura personalizzata, 100% lana e merino, Doppio comando, 6 temperature","0","249.9","0","0","1672632876.21021",NA
+"462","B08J8XJHNM","Imetec Adapto velvet tartan plaid riscaldabile, Coperta elettrica 160x120 cm Tessuto morbido, Basso consumo, Tecnologia adapto, Dispositivo di sicurezza, Rapido riscaldamento, 6 temperature, Lavabile","0","85.99","0","0","1672632898.91888",NA
+"463","B08JVC7VB4","Imetec Crea&Crema sbattitore elettrico, Fruste extralunghe per impasti dolci e panna montata, Ganci acciaio inox per impastare, 5 velocità, Funzione turbo, Design ergonomico, 500 w","0","23.99","0","0","1672632921.082",NA
+"464","B08JV8L49M","Imetec Tostamaxi Tostapane, 2 Fessure Extralarge E Pinze Apribili Per Toast Extrafarciti, Timer Con Autospegnimento, Cassetto Raccoglibriciole, 600 W, ‎Antracite, ‎32.79 x 24 x 22.8 cm; 1.7 Kg","0","56.68","0","0","1672632943.23235",NA
+"465","B08JV9LX42","Imetec La Tostagriglia, Tostiera, Piastre xl rigate e antiaderenti, Interruttore on/off, Spia riscaldamento piastre, Gancio chiusura, Avvolgicavo, Tostapane compatto, 900 w","0",NA,"0","0","1672632965.40064",NA
+"466","B08JV8FFYH","Imetec Griglia&Gusta Bistecchiera, Piastre Antiaderenti Removibili, Rivestimento Triplo Strato al Titanio Stone-Look, Grill con 7 Posizioni, 3 Funzioni di Cottura, Thermo Control, 2000 Watt","0","112.99","0","0","1672632988.23782",NA
+"467","B08JVCHZF3","Imetec FrullaTutto Frullatore, Lame Tritaghiaccio in Acciaio Inox, Bicchiere da 800 ml in Vetro Antigraffio, 2 Velocità, Funzionamento Impulsi, 500 W, 2 Velocità, Lavabile Lavastoviglie","0","42.99","0","0","1672633010.57575",NA
+"468","B08JV9VVQT",NA,"0",NA,"0","0","1672633030.54403",NA
+"469","B08JV7QK54","Imetec La Panetteria +zeroglu, Macchina per pane, Ciabatte, Panini, Dolci con farine naturali e senza glutine, 20 programmi, 2 pale impastatrici, Temperatura di lievitazione controllata","0","140","0","0","1672633053.27914",NA
+"470","B08JV87TZW","Imetec Succovivo SJ4 1300 Estrattore di Succo Professionale a Freddo, Spremitura Lenta 50 Giri/Min, Filtro per Succhi, Accessorio per Granite e Sorbetti, pulizia in 2 minuti","0","143.61","0","0","1672633075.62814",NA
+"471","B08NKXBJX1","Bellissima My Pro Imetec Beach Waves Gt20 400 Piastra Per Capelli per onde larghe e strette, Rivestimento In Ceramica, temperatura regolabile 160 C°- 200°C","0","38.99","0","0","1672633098.00283",NA
+"472","B08NK1L69Z","Imetec TritaMax, Tritatutto, 4 Lame in Acciaio Inox, Capiente Contenitore 600 ml, Accessorio Frusta per Salse e Panna Montata, 2 velocità, 500 Watt","0",NA,"0","0","1672633120.12383",NA
+"473","B08NK25BLP","Imetec Frulla&Crea Frullatore a Immersione, 3 Accessori, Tritatutto, Frusta e Bicchiere BPA free, Piede Large, 2 Velocità, 1000 W, 15000 Giri Minuto","0","39.99","0","0","1672633143.10442",NA
+"474","B08NPR8QNN","Imetec tritacompact tritatutto, Lame in acciaio inox, Capienza contenitore 400 ml, Funzionamento a pressione, Compatto, 350 w","0","32.99","0","0","1672633165.37418",NA
+"475","B08NPMMFWQ","Imetec Tritapiù tritatutto, 4 lame in acciaio inox, Capiente contenitore 600 ml, 18.000 giri/min, Funzionamento a pressione, 1000 w, Materiali bpa free","0","59.99","0","0","1672633187.86133",NA
+"476","B08NPF5HWD",NA,"0",NA,"0","0","1672633207.88738",NA
+"477","B08NP5M6D4","Imetec FrescoAroma Macina Caffè e Spezie, Pepe, Zucchero, Frutta Secca Elettrico con Lame in Acciaio Inox, Contenitore Salva-Freschezza, Funzionamento a Impulsi, 150 W","0","29.99","0","0","1672633230.53485",NA
+"478","B08NPR9BYM","Imetec frullarapido, Frullatore a immersione, Gambo xl in acciaio, Lame in acciaio inox, Funzionamento a impulsi, 450 w","0",NA,"0","0","1672633252.61995",NA
+"479","B08NPG5D5Y","Imetec BuonFrullato, Frullatore Compatto, Bicchiere in Plastica BPA Free, Capacità 700 ml, Coperchio Dosa Liquidi, 400 W","0","28.89","0","0","1672633274.91154",NA
+"480","B0813TLPGY","Imetec ZeroCalc PS1 2200, Ferro da Stiro Compatto, fino a 4 BAR di Pressione alla Pompa, Tecnologia Anticalcare e a Risparmio Energetico, Ricarica Continua, Vapore Pronto in Un Minuto, 2100 W","0","60.99","0","0","1672633297.46038",NA
+"481","B07YX5QRCL",NA,"0",NA,"0","0","1672633317.42074",NA
+"482","B08HS4ZSMH","Imetec Onda F2, Ferro da Stiro a Vapore con Piastra a Onde Scorrevole Brevettata, 2400 W, Colpo di Vapore 200g, Serbatoio 300 ml, Tripla Protezione Anticalcare","0","85.55","0","0","1672633340.0621",NA
+"483","B08HS61FJ5","Imetec Onda P2 Ferro da Stiro Generatore di Vapore, Piastra a Onde Scorrevole Brevettata, 2400W, Colpo Vapore 300 g, Serbatoio 2,5L, 3 Filtri con Ioni di Argento, Tecnologia No Stop Vapor","0","182.64","0","0","1672633362.47581",NA
+"484","B08LVXG2V1",NA,"0",NA,"0","0","1672633382.42352",NA
+"485","B08V11MR92","Imetec Eco Perfect Ferro da Stiro a Vapore, Risultati Ottimi con -35% di Consumo di Acqua e -25% di Consumo Energetico, Piastra con Rivestimento Pro Ceramic, Tripla Protezione Anticalcare, 2400 W","0","49","0","0","1672633405.01316",NA
+"486","B08V1FYMK9","Imetec Intellivapor, Ferro da Stiro Generatore di Vapore, Tecnologia Intelli System, Impostazione Automatica di Vapore e Temperatura, Piastra Ceramica, 2300W, Colpo Vapore 260 g, Filtri Ioni Argento","0","102.29","0","0","1672633427.40512",NA
+"487","B08X7BYVZQ",NA,"0",NA,"0","0","1672633447.41966",NA
+"488","B093C19CSD","Imetec Salon Expert p3 3600 asciugacapelli, Motore professionale, 2200 w, Ionizzatore, Griglia ceramica e tormalina, 8 combinazioni aria temperatura, Concentratore e diffusore professionali","0","35.99","0","0","1672633470.10367",NA
+"489","B093BYJXZW","Imetec Salon Expert P11 2300 Asciugacapelli, Motore Professionale, 2100 W, Griglia in Ceramica e Tormalina, 8 Combinazioni Aria Temperatura, Colpo Aria Fredda","0","29.99","0","0","1672633492.40963",NA
+"490","B08R7NM2SF","Imetec tosta&griglia, Tostiera elettrica, Piastre xl per preparare 3 toast alla volta, Compatta, Riponibile in verticale, 800 w, Spie di funzionamento","0","35.99","0","0","1672633514.64299",NA
+"491","B08X1WLF5W","Imetec SuccoVita, estrattore di succo a freddo facile da usare, estratti di frutta e verdura, sorbetti e latte vegetale, 50 giri/min, imbocco ampio, funzione reverse","0",NA,"0","0","1672633536.77873",NA
+"492","B08XBZV29G",NA,"0",NA,"0","0","1672633556.72415",NA
+"493","B08R7NSVL5","Imetec GranToast, tostapane per toast extra farciti, fessure XL, pinze a fondo chiuso apribili a 360° e regolabili in larghezza, 600 W, 10 livelli doratura, Timer","0","49.99","0","0","1672633579.32892",NA
+"494","B08RYGFL21","Imetec Frulla&Gusta, Frullatore con 4 lame in acciaio inox, bicchiare in vetro, 2 velocità e funzionamento impulsi, 500 W, capienza 800 ml, lavabile lavastoviglie, piedini antiscivolo","0",NA,"0","0","1672633601.43796",NA
+"495","B08RZ288L3","Imetec La Forneria +Zeroglu 7488, Macchina per Pane, Ciabatte, Panini, Pizza e Dolci anche con Farine Naturali, 20 Programmi, 2 Pale Impastatrici, Temperatura di Lievitazione Controllata, Bianca","0",NA,"0","0","1672633623.53411",NA
+"496","B09CTZ6WKM",NA,"0",NA,"0","0","1672633643.57649",NA
+"497","B09CTZZGFY","Bellissima My Pro Imetec GT22 160, Accessorio Hollywood Waves per Styler Arricciacapelli Twist&Style, Rivestimento in ceramica, Temperatura 190°C, Ovale, Diametro 38 x 25 mm","0","31.9","0","0","1672633666.39118",NA
+"498","B09BJ7LNR6","Bellissima Imetec Steam Elixir, Piastra a Vapore, Capelli lisci in Una Sola Passata Senza Danni, Rivestimento in Ceramica e Olio Argan, Rapido Riscaldamento, 4 Temperature, Tappetino Termoresistente","0","93.99","0","0","1672633689.24628",NA
+"499","B09BHV4DWG","Bellissima Imetec Air Wonder, Spazzola ad Aria Calda, Tecnologia a ioni, Spazzole Rivestite in Ceramica e Cheratina, Asciuga, Dona Volume, 8 Accessori, 1000 W","0","59","0","0","1672633711.94677",NA
+"500","B09CTY5P2L","Bellissima Imetec Creativity 4 You, Asciugacapelli Professionale, 4 Accessori, Diffusore, Controllo Intelligente della temperatura, Ion Technology, Beauty Bag, 2 velocità, 3 temperature, 1800 W","0","98.99","0","0","1672633734.39052",NA
+"501","B0987B62CP","Imetec Silent Power Comfort, Termoventilatore Silenzioso E Compatto, Stufetta Elettrica, 2100 W, 4 Funzioni, Funzione Antigelo, Maniglia, ‎Nero, ‎32.29 x 28.3 x 17.2 cm; 1.75 Kg","0","49.99","0","0","1672633756.95312",NA
+"502","B0987BTDT2","Imetec Silent Power Eco, Termoventilatore Silenzioso, Stufetta Elettrica, Tecnologia ECO -35% Consumo Energetico, 2100 W, Funzione Antigelo, Temperatura Regolabile, 4 Funzioni, Termostato Ambiente","0","52.24","0","0","1672633779.29849",NA
+"503","B0987C6H2S","Imetec Silent Power Pure, Termoventilatore silenzioso con ionizzatore e timer di autospegnimento, Stufetta Elettrica, 2100 W, funzione antigelo, temperatura regolabile, 4 funzioni","0","89.36","0","0","1672633801.62446",NA
+"504","B0987D9K2X",NA,"0",NA,"0","0","1672633821.60432",NA
+"505","B0987D6J4J","Imetec Compact Air, Termoventilatore piccolo e potente, Stufetta Elettrica, 2000 W, maniglia integrata, temperatura regolabile, funzione antigelo, dispositivo di protezione dai surriscaldamenti","0","29.9","0","0","1672633844.05283",NA
+"506","B09CYM6KR3","Imetec FrullaRapido+, Frullatore a Immersione, Gambo XL in Acciaio, Lame in Acciaio Inox, Funzionamento a Impulsi, Bicchiere graduato da 700 ml BPA Free, 800 W","0","31.99","0","0","1672633866.50095",NA
+"507","B09CYDKRZ6","Imetec FrullaFacile, Frullatore a Immersione, Gambo XL, Lame in Acciaio Inox, Funzionamento a Impulsi, Bicchiere Graduato da 700 ml BPA Free, 800 W, Impugnatura Ergonomica","0","24.99","0","0","1672633888.55399",NA
+"508","B09CTZF711","Imetec Intellisense Comfort, Termoforo multiuso, Cuscino termico, Per schiena e addome, Tasca per mani, Rapido riscaldamento, Tessuto anallergico, 5 temperature, Electro block di sicurezza, Lavabile","0","37.29","0","0","1672633910.90505",NA
+"509","B09CTZM9LJ","Imetec Intellisense XL, Termoforo Extra Large Schiena e Gambe, Cuscino termico, 38x50 cm, Tessuto micro Peluche, 5 Temperature, Electro Block di sicurezza, Riscaldamento Rapido, lavabile in lavatrice","0","54.99","0","0","1672633933.34475",NA
+"510","B09CTZV4TM","Imetec Intellisense Cervical, Termoforo per Cervicale e Spalle, Cuscino Termico, 47x52 cm, Tessuto Anallergico, 5 Temperature, Electro Block di Sicurezza, Riscaldamento Rapido, Lavabile in Lavatrice","0","57.99","0","0","1672633955.68467",NA
+"511","B08X6QMR36","Imetec Onda F1, Ferro da Stiro a Vapore con Piastra a Onde Scorrevole Brevettata, 2400 W, Colpo di Vapore 200g, Serbatoio 300 ml, Tripla Protezione Anticalcare","0","62.99","0","0","1672633978.37065",NA
+"512","B08X6ZDL24","Imetec Onda P1 Ferro Da Stiro Generatore Di Vapore, Piastra A Onde Scorrevole Brevettata, 2400W, Serbatoio 2.5L, Tecnologia No Stop Vapor, Nero E Acqua Marina, ‎33 x 40 x 21 cm; 3.26 Kg","0","151.99","0","0","1672634001.23831",NA
+"513","B08JZ99BSG","Imetec Piuma Extreme++ SC3-500, Aspirapolvere con Tecnologia Ciclonica Senza Sacco, Regolazione Elettronica della Potenza, Leggera 4 kg, Doppio Filtro Hepa Ipoallergenico, Nero","0",NA,"0","0","1672634023.29318",NA
+"514","B0987C1JFD",NA,"0",NA,"0","0","1672634043.29458",NA
+"515","B0987BBB14",NA,"0",NA,"0","0","1672634063.48385",NA
+"516",NA,NA,NA,NA,NA,NA,NA,NA
+"517","B09KV6G5KT","Imetec intellisense Essential, Termoforo multiuso, Cuscino termico, 40x35 cm, Tessuto anallergico, 5 temperature, Electro block di sicurezza, Lavabile, 40x35 cm","0","44.99","0","0","1672634549.04238",NA
+"518","B09N2JV9X3",NA,"0",NA,"0","0","1672634568.99178",NA
+"519","B09K7ZS81N","Imetec Friggileggero - friggitrice ad aria multifunzione, 12 programmi, Riscaldamento rapido, 18 l, 1550 w, Comandi digitali, Cestello, Griglia, Leccarda, Ricettario, 40x36x34,5 cm","0","189.99","0","0","1672634591.53368",NA
+"520","B09GTTY863","Imetec scaldasonno adapto maxi coprimaterasso matrimoniale 195x165 cm, Basso consumo, Riscaldamento rapido, Temperatura personalizzata, 100% cotone percalle trapuntato, Doppio comando, 6 temperature","0","239.99","0","0","1672634614.03679",NA
+"521","B08TZZ3PR8",NA,"0",NA,"0","0","1672634633.99136",NA
+"522","B08V14MDK1","Imetec Relaxy Intellisense HP-01 Termoforo Multifunzione, Beige/Bordeaux","0","36.99","0","0","1672634656.57485",NA
